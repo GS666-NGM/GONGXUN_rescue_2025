@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "micro_ros_msgs__py",
+		"source" : "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_msgs/micro_ros_msgs__py"
+	}
+}

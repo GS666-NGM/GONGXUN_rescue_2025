@@ -1,0 +1,8 @@
+{
+  "package_name": "actionlib_msgs",
+  "non_idl_tuples": [
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/actionlib_msgs:msg/GoalID.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/actionlib_msgs:msg/GoalStatus.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/actionlib_msgs:msg/GoalStatusArray.msg"
+  ]
+}

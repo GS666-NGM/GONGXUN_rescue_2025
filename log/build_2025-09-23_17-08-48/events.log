@@ -1,0 +1,166 @@
+[0.000000] (-) TimerEvent: {}
+[0.000707] (-) JobUnselected: {'identifier': 'action_msgs'}
+[0.000738] (-) JobUnselected: {'identifier': 'actionlib_msgs'}
+[0.000763] (-) JobUnselected: {'identifier': 'builtin_interfaces'}
+[0.000788] (-) JobUnselected: {'identifier': 'common_interfaces'}
+[0.000797] (-) JobUnselected: {'identifier': 'complex_msgs'}
+[0.000805] (-) JobUnselected: {'identifier': 'composition_interfaces'}
+[0.000812] (-) JobUnselected: {'identifier': 'diagnostic_msgs'}
+[0.000819] (-) JobUnselected: {'identifier': 'example_interfaces'}
+[0.000826] (-) JobUnselected: {'identifier': 'geometry_msgs'}
+[0.000832] (-) JobUnselected: {'identifier': 'lifecycle_msgs'}
+[0.000845] (-) JobUnselected: {'identifier': 'micro_ros_agent'}
+[0.000858] (-) JobUnselected: {'identifier': 'micro_ros_demos_rclc'}
+[0.001022] (-) JobUnselected: {'identifier': 'micro_ros_msgs'}
+[0.001075] (-) JobUnselected: {'identifier': 'micro_ros_setup'}
+[0.001085] (-) JobUnselected: {'identifier': 'micro_ros_utilities'}
+[0.001093] (-) JobUnselected: {'identifier': 'microcdr'}
+[0.001099] (-) JobUnselected: {'identifier': 'microxrcedds_client'}
+[0.001106] (-) JobUnselected: {'identifier': 'nav_msgs'}
+[0.001113] (-) JobUnselected: {'identifier': 'rcl_interfaces'}
+[0.001120] (-) JobUnselected: {'identifier': 'rclc'}
+[0.001138] (-) JobUnselected: {'identifier': 'rclc_parameter'}
+[0.001161] (-) JobUnselected: {'identifier': 'rmw_microxrcedds'}
+[0.001185] (-) JobUnselected: {'identifier': 'rosgraph_msgs'}
+[0.001195] (-) JobUnselected: {'identifier': 'rosidl_typesupport_microxrcedds_c'}
+[0.001202] (-) JobUnselected: {'identifier': 'rosidl_typesupport_microxrcedds_c_tests'}
+[0.001209] (-) JobUnselected: {'identifier': 'rosidl_typesupport_microxrcedds_cpp'}
+[0.001216] (-) JobUnselected: {'identifier': 'rosidl_typesupport_microxrcedds_cpp_tests'}
+[0.001223] (-) JobUnselected: {'identifier': 'rosidl_typesupport_microxrcedds_test_msg'}
+[0.001230] (-) JobUnselected: {'identifier': 'sensor_msgs'}
+[0.001236] (-) JobUnselected: {'identifier': 'sensor_msgs_py'}
+[0.001243] (-) JobUnselected: {'identifier': 'shape_msgs'}
+[0.001249] (-) JobUnselected: {'identifier': 'statistics_msgs'}
+[0.001256] (-) JobUnselected: {'identifier': 'std_msgs'}
+[0.001263] (-) JobUnselected: {'identifier': 'std_srvs'}
+[0.001270] (-) JobUnselected: {'identifier': 'stereo_msgs'}
+[0.001280] (-) JobUnselected: {'identifier': 'test_msgs'}
+[0.001425] (-) JobUnselected: {'identifier': 'trajectory_msgs'}
+[0.001481] (-) JobUnselected: {'identifier': 'unique_identifier_msgs'}
+[0.001508] (-) JobUnselected: {'identifier': 'visualization_msgs'}
+[0.001520] (car) JobQueued: {'identifier': 'car', 'dependencies': OrderedDict()}
+[0.001535] (car) JobStarted: {'identifier': 'car'}
+[0.008990] (car) JobProgress: {'identifier': 'car', 'progress': 'cmake'}
+[0.010171] (car) JobProgress: {'identifier': 'car', 'progress': 'build'}
+[0.010649] (car) Command: {'cmd': ['/usr/bin/cmake', '--build', '/root/ros_ws/src/Rescue_Car_ws/build/car', '--', '-j20', '-l20'], 'cwd': '/root/ros_ws/src/Rescue_Car_ws/build/car', 'env': OrderedDict([('PYTHON_BASIC_REPL', '1'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'root'), ('GIT_ASKPASS', '/root/.vscode-server/bin/0f0d87fa9e96c856c5212fc86db137ac0d783365/extensions/git/dist/askpass.sh'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs/lib:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('TERM_PROGRAM_VERSION', '1.104.1'), ('VSCODE_IPC_HOOK_CLI', '/run/user/0/vscode-ipc-c16b0e4c-7dd9-4d60-8c63-013c8a6bc58b.sock'), ('ROS_PYTHON_VERSION', '3'), ('VSCODE_GIT_ASKPASS_MAIN', '/root/.vscode-server/bin/0f0d87fa9e96c856c5212fc86db137ac0d783365/extensions/git/dist/askpass-main.js'), ('VSCODE_GIT_ASKPASS_NODE', '/root/.vscode-server/bin/0f0d87fa9e96c856c5212fc86db137ac0d783365/node'), ('PYDEVD_DISABLE_FILE_VALIDATION', '1'), ('BUNDLED_DEBUGPY_PATH', '/root/.vscode-server/extensions/ms-python.debugpy-2025.10.0-linux-x64/bundled/libs/debugpy'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/0/bus'), ('COLORTERM', 'truecolor'), ('WSL_DISTRO_NAME', 'Ubuntu-22.04'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/root/ros_ws/src/Rescue_Car_ws/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'root'), ('NAME', 'DESKTOP-PDQDUOB'), ('WSL_INTEROP', '/run/WSL/1790_interop'), ('PULSE_SERVER', 'unix:/mnt/wslg/PulseServer'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/root/.vscode-server/bin/0f0d87fa9e96c856c5212fc86db137ac0d783365/bin/remote-cli:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/d/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/d/Git/cmd:/mnt/d/mingw64/bin:/mnt/d/Matlab2024b/runtime/win64:/mnt/d/Matlab2024b/bin:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Users/Tan Dachao/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/usbipd-win/:/mnt/c/Users/Tan Dachao/AppData/Local/Programs/Python/Python312/Scripts/:/mnt/c/Users/Tan Dachao/AppData/Local/Programs/Python/Python312/:/mnt/c/Users/Tan Dachao/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Tan Dachao/.dotnet/tools:/mnt/d/Microsoft VS Code/bin:/mnt/c/Users/Tan Dachao/AppData/Local/GitHubDesktop/bin:/snap/bin:/root/.vscode-server/extensions/ms-python.debugpy-2025.10.0-linux-x64/bundled/scripts/noConfigScripts:/root/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand'), ('XDG_RUNTIME_DIR', '/run/user/0/'), ('DISPLAY', ':0'), ('VSCODE_DEBUGPY_ADAPTER_ENDPOINTS', '/root/.vscode-server/extensions/ms-python.debugpy-2025.10.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-9752c1ca664e85fc.txt'), ('LANG', 'C.UTF-8'), ('PYTHONSTARTUP', '/root/.vscode-server/data/User/workspaceStorage/2bdf54b4d63328fccc4ac90a251bd15e/ms-python.python/pythonrc.py'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/0/vscode-git-7763f77797.sock'), ('TERM_PROGRAM', 'vscode'), ('AMENT_PREFIX_PATH', '/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc:/root/ros_ws/src/Rescue_Car_ws/install/common_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/car:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('PWD', '/root/ros_ws/src/Rescue_Car_ws/build/car'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('WSL2_GUI_APPS_ENABLED', '1'), ('HOSTTYPE', 'x86_64'), ('CMAKE_PREFIX_PATH', '/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc:/root/ros_ws/src/Rescue_Car_ws/install/common_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/car:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble'), ('WSLENV', 'VSCODE_WSL_EXT_LOCATION/up')]), 'shell': False}
+[0.031452] (car) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.099977] (-) TimerEvent: {}
+[0.137079] (car) StdoutLine: {'line': b'-- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.204185] (-) TimerEvent: {}
+[0.286461] (car) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.287763] (car) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.291139] (car) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.297405] (car) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.304725] (-) TimerEvent: {}
+[0.308103] (car) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.337612] (car) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.339151] (car) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[0.409002] (-) TimerEvent: {}
+[0.515771] (-) TimerEvent: {}
+[0.616239] (-) TimerEvent: {}
+[0.716910] (-) TimerEvent: {}
+[0.823617] (-) TimerEvent: {}
+[0.930148] (-) TimerEvent: {}
+[1.036923] (-) TimerEvent: {}
+[1.143683] (-) TimerEvent: {}
+[1.250369] (-) TimerEvent: {}
+[1.352774] (-) TimerEvent: {}
+[1.453276] (-) TimerEvent: {}
+[1.559987] (-) TimerEvent: {}
+[1.666517] (-) TimerEvent: {}
+[1.773292] (-) TimerEvent: {}
+[1.879975] (-) TimerEvent: {}
+[1.981361] (-) TimerEvent: {}
+[2.088144] (-) TimerEvent: {}
+[2.195041] (-) TimerEvent: {}
+[2.301765] (-) TimerEvent: {}
+[2.408407] (-) TimerEvent: {}
+[2.515068] (-) TimerEvent: {}
+[2.621749] (-) TimerEvent: {}
+[2.728214] (-) TimerEvent: {}
+[2.834880] (-) TimerEvent: {}
+[2.941529] (-) TimerEvent: {}
+[3.048210] (-) TimerEvent: {}
+[3.154880] (-) TimerEvent: {}
+[3.261547] (-) TimerEvent: {}
+[3.368305] (-) TimerEvent: {}
+[3.475100] (-) TimerEvent: {}
+[3.581756] (-) TimerEvent: {}
+[3.688523] (-) TimerEvent: {}
+[3.794881] (-) TimerEvent: {}
+[3.901533] (-) TimerEvent: {}
+[4.008287] (-) TimerEvent: {}
+[4.110212] (-) TimerEvent: {}
+[4.216883] (-) TimerEvent: {}
+[4.323649] (-) TimerEvent: {}
+[4.430341] (-) TimerEvent: {}
+[4.537076] (-) TimerEvent: {}
+[4.643912] (-) TimerEvent: {}
+[4.750601] (-) TimerEvent: {}
+[4.857249] (-) TimerEvent: {}
+[4.963913] (-) TimerEvent: {}
+[5.070561] (-) TimerEvent: {}
+[5.177221] (-) TimerEvent: {}
+[5.283873] (-) TimerEvent: {}
+[5.327003] (car) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[5.356305] (car) StdoutLine: {'line': b'-- Found geometry_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/share/geometry_msgs/cmake)\n'}
+[5.365959] (car) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[5.385218] (-) TimerEvent: {}
+[5.417698] (car) StdoutLine: {'line': b"-- Added test 'cppcheck' to perform static code analysis on C / C++ code\n"}
+[5.417872] (car) StdoutLine: {'line': b'-- Configured cppcheck include dirs: \n'}
+[5.417909] (car) StdoutLine: {'line': b'-- Configured cppcheck exclude dirs and/or files: \n'}
+[5.418104] (car) StdoutLine: {'line': b"-- Added test 'flake8' to check Python code syntax and style conventions\n"}
+[5.418260] (car) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[5.418352] (car) StdoutLine: {'line': b"-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257\n"}
+[5.418750] (car) StdoutLine: {'line': b"-- Added test 'uncrustify' to check C / C++ code style\n"}
+[5.418837] (car) StdoutLine: {'line': b'-- Configured uncrustify additional arguments: \n'}
+[5.419066] (car) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[5.419558] (car) StdoutLine: {'line': b'-- Configuring done\n'}
+[5.428915] (car) StdoutLine: {'line': b'-- Generating done\n'}
+[5.431930] (car) StdoutLine: {'line': b'-- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/car\n'}
+[5.464481] (car) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/control_pub.dir/src/control_pub.cpp.o\x1b[0m\n'}
+[5.464729] (car) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/odom_sub.dir/src/odom_sub.cpp.o\x1b[0m\n'}
+[5.482847] (car) StdoutLine: {'line': b'[ 75%] \x1b[32m\x1b[1mLinking CXX executable odom_sub\x1b[0m\n'}
+[5.485516] (-) TimerEvent: {}
+[5.589200] (-) TimerEvent: {}
+[5.604843] (car) StderrLine: {'line': b"/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':\n"}
+[5.605020] (car) StderrLine: {'line': b"(.text+0x1b): undefined reference to `main'\n"}
+[5.606500] (car) StderrLine: {'line': b'collect2: error: ld returned 1 exit status\n'}
+[5.608001] (car) StderrLine: {'line': b'gmake[2]: *** [CMakeFiles/odom_sub.dir/build.make:167: odom_sub] Error 1\n'}
+[5.608175] (car) StderrLine: {'line': b'gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/odom_sub.dir/all] Error 2\n'}
+[5.608339] (car) StderrLine: {'line': b'gmake[1]: *** Waiting for unfinished jobs....\n'}
+[5.690533] (-) TimerEvent: {}
+[5.791694] (-) TimerEvent: {}
+[5.892390] (-) TimerEvent: {}
+[5.994693] (-) TimerEvent: {}
+[6.097015] (-) TimerEvent: {}
+[6.198614] (-) TimerEvent: {}
+[6.300540] (-) TimerEvent: {}
+[6.402752] (-) TimerEvent: {}
+[6.505097] (-) TimerEvent: {}
+[6.607770] (-) TimerEvent: {}
+[6.708283] (-) TimerEvent: {}
+[6.810040] (-) TimerEvent: {}
+[6.912254] (-) TimerEvent: {}
+[7.014636] (-) TimerEvent: {}
+[7.116357] (-) TimerEvent: {}
+[7.218156] (-) TimerEvent: {}
+[7.320283] (-) TimerEvent: {}
+[7.422363] (-) TimerEvent: {}
+[7.524855] (-) TimerEvent: {}
+[7.625418] (-) TimerEvent: {}
+[7.726480] (-) TimerEvent: {}
+[7.828368] (-) TimerEvent: {}
+[7.929947] (-) TimerEvent: {}
+[8.031764] (-) TimerEvent: {}
+[8.133478] (-) TimerEvent: {}
+[8.235553] (-) TimerEvent: {}
+[8.342331] (-) TimerEvent: {}
+[8.354344] (car) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable control_pub\x1b[0m\n'}
+[8.442542] (-) TimerEvent: {}
+[8.542889] (-) TimerEvent: {}
+[8.549357] (car) StdoutLine: {'line': b'[100%] Built target control_pub\n'}
+[8.550467] (car) StderrLine: {'line': b'gmake: *** [Makefile:146: all] Error 2\n'}
+[8.552689] (car) CommandEnded: {'returncode': 2}
+[8.560009] (car) JobEnded: {'identifier': 'car', 'rc': 2}
+[8.571118] (-) EventReactorShutdown: {}

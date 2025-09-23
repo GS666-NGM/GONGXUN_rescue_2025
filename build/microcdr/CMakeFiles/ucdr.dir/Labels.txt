@@ -1,0 +1,13 @@
+# Target labels
+ ucdr
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/CMakeFiles/ucdr
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/CMakeFiles/ucdr.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/CMakeFiles/ucdr-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-update.rule

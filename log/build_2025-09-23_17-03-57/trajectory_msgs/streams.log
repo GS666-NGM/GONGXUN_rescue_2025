@@ -1,0 +1,215 @@
+[0.339s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs -- -j20 -l20
+[0.395s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_generator_c[0m
+[0.417s] [ 10%] Built target trajectory_msgs__rosidl_generator_c
+[0.452s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.469s] [ 12%] Built target trajectory_msgs__cpp
+[0.469s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_introspection_c[0m
+[0.469s] [ 12%] Built target ament_cmake_python_copy_trajectory_msgs
+[0.472s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_c[0m
+[0.479s] [ 23%] Built target trajectory_msgs__rosidl_typesupport_fastrtps_c
+[0.516s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_cpp[0m
+[0.516s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.516s] [ 34%] Built target trajectory_msgs__rosidl_typesupport_c
+[0.517s] [ 45%] Built target trajectory_msgs__rosidl_typesupport_introspection_c
+[0.522s] [ 56%] Built target trajectory_msgs__rosidl_typesupport_cpp
+[0.544s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.554s] [ 67%] Built target trajectory_msgs__rosidl_typesupport_fastrtps_cpp
+[0.579s] [ 78%] Built target trajectory_msgs__rosidl_typesupport_introspection_cpp
+[0.645s] [ 78%] Built target trajectory_msgs
+[0.712s] [ 80%] Built target trajectory_msgs__py
+[0.745s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_generator_py[0m
+[0.787s] [ 89%] Built target trajectory_msgs__rosidl_generator_py
+[0.818s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.828s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_c__pyext[0m
+[0.836s] [35m[1mConsolidate compiler generated dependencies of target trajectory_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.872s] [ 92%] Built target trajectory_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.874s] [ 96%] Built target trajectory_msgs__rosidl_typesupport_c__pyext
+[0.882s] [100%] Built target trajectory_msgs__rosidl_typesupport_introspection_c__pyext
+[0.930s] running egg_info
+[0.932s] writing trajectory_msgs.egg-info/PKG-INFO
+[0.932s] writing dependency_links to trajectory_msgs.egg-info/dependency_links.txt
+[0.932s] writing top-level names to trajectory_msgs.egg-info/top_level.txt
+[0.935s] reading manifest file 'trajectory_msgs.egg-info/SOURCES.txt'
+[0.936s] writing manifest file 'trajectory_msgs.egg-info/SOURCES.txt'
+[0.997s] [100%] Built target ament_cmake_python_build_trajectory_msgs_egg
+[1.044s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs -- -j20 -l20
+[1.045s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs
+[1.054s] -- Install configuration: ""
+[1.055s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/ament_index/resource_index/rosidl_interfaces/trajectory_msgs
+[1.055s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs
+[1.055s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg
+[1.055s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory_point.h
+[1.055s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory.h
+[1.055s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__functions.c
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__struct.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__type_support.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__struct.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__functions.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__struct.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__functions.h
+[1.056s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__functions.c
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__functions.h
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__functions.c
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__struct.h
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.h
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory_point.h
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/library_path.sh
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/library_path.dsv
+[1.057s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_generator_c.so
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_fastrtps_c.h
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_fastrtps_c.h
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_fastrtps_c.h
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_fastrtps_c.h
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_fastrtps_c.so
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory.hpp
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory_point.hpp
+[1.058s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory_point.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__struct.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__builder.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__builder.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__struct.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__builder.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__traits.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__traits.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__traits.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__struct.hpp
+[1.059s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__type_support.hpp
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.hpp
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__struct.hpp
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__builder.hpp
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__traits.hpp
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory.hpp
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail
+[1.064s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/dds_fastrtps
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_fastrtps_cpp.hpp
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_fastrtps_cpp.hpp
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg
+[1.065s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.c
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.c
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_introspection_c.h
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_introspection_c.h
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.c
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_introspection_c.h
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__type_support.c
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_introspection_c.h
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_introspection_c.so
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_c.so
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg
+[1.066s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail
+[1.067s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[1.067s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_introspection_cpp.hpp
+[1.067s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__type_support.cpp
+[1.067s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[1.067s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_introspection_cpp.hpp
+[1.067s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.cpp
+[1.072s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.cpp
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.cpp
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_introspection_cpp.so
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_cpp.so
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/pythonpath.sh
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/pythonpath.dsv
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs-4.9.0-py3.10.egg-info
+[1.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs-4.9.0-py3.10.egg-info/dependency_links.txt
+[1.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs-4.9.0-py3.10.egg-info/SOURCES.txt
+[1.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs-4.9.0-py3.10.egg-info/PKG-INFO
+[1.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs-4.9.0-py3.10.egg-info/top_level.txt
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.080s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/libtrajectory_msgs__rosidl_generator_py.so
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_c.c
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/__init__.py
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory.py
+[1.081s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_joint_trajectory.py
+[1.082s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_point_s.c
+[1.082s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_point.py
+[1.082s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_joint_trajectory_point.py
+[1.083s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_s.c
+[1.083s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_joint_trajectory_s.c
+[1.084s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/__init__.py
+[1.084s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg/_joint_trajectory_point_s.c
+[1.084s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.130s] Listing '/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs'...
+[1.130s] Listing '/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/msg'...
+[1.137s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.137s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.137s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.137s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_generator_py.so
+[1.138s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectory.idl
+[1.144s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectoryPoint.idl
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectory.idl
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.idl
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectory.msg
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectoryPoint.msg
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectory.msg
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/ament_index/resource_index/package_run_dependencies/trajectory_msgs
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/ament_index/resource_index/parent_prefix_path/trajectory_msgs
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/ament_prefix_path.sh
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/ament_prefix_path.dsv
+[1.145s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/path.sh
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/environment/path.dsv
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.bash
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.sh
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.zsh
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.dsv
+[1.146s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/package.dsv
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/ament_index/resource_index/packages/trajectory_msgs
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_cExport.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_cppExport.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.146s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cExport.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cppExport.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_pyExport.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/rosidl_cmake-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgsConfig.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgsConfig-version.cmake
+[1.147s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/share/trajectory_msgs/package.xml
+[1.157s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/trajectory_msgs

@@ -1,0 +1,8 @@
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/lib/libmicrocdr.a
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/visibility.h
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/microcdr.h
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/config.h
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrTargets.cmake
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrTargets-release.cmake
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrConfig.cmake
+/root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrConfigVersion.cmake

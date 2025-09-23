@@ -1,0 +1,13 @@
+{
+  "package_name": "lifecycle_msgs",
+  "non_idl_tuples": [
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:msg/State.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:msg/Transition.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:msg/TransitionDescription.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:msg/TransitionEvent.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:srv/ChangeState.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:srv/GetAvailableStates.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:srv/GetAvailableTransitions.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/lifecycle_msgs:srv/GetState.srv"
+  ]
+}

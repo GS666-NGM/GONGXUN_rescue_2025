@@ -1,0 +1,13 @@
+# Target labels
+ ping_pong
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_pong
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_pong.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_pong-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-update.rule

@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+3ff231b524ade1265e2b051fec7b1408 ucdr-prefix/src/ucdr-stamp/ucdr-download
+5a6e5fcba276e08528d63fa0c43ee4a1 ucdr-prefix/src/ucdr-stamp/ucdr-mkdir
+5328808f059c6e3d49dd601fcd62207e ucdr-prefix/src/ucdr-stamp/ucdr-patch
+e1fcf40037071fc5eeba6b5315921495 ucdr-prefix/src/ucdr-stamp/ucdr-update

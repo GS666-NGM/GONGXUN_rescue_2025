@@ -1,0 +1,39 @@
+[1.335s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs_py': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../../build/sensor_msgs_py build --build-base /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build install --record /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data
+[1.595s] running egg_info
+[1.596s] creating ../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info
+[1.596s] writing ../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+[1.596s] writing dependency_links to ../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+[1.597s] writing requirements to ../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+[1.597s] writing top-level names to ../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+[1.597s] writing manifest file '../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[1.599s] reading manifest file '../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[1.599s] adding license file 'LICENSE'
+[1.600s] writing manifest file '../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[1.600s] running build
+[1.600s] running build_py
+[1.600s] creating /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build
+[1.601s] creating /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib
+[1.601s] creating /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.602s] copying sensor_msgs_py/numpy_compat.py -> /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.602s] copying sensor_msgs_py/point_cloud2.py -> /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.602s] copying sensor_msgs_py/__init__.py -> /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.603s] running install
+[1.603s] running install_lib
+[1.605s] creating /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.605s] copying /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/numpy_compat.py -> /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.605s] copying /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/point_cloud2.py -> /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.605s] copying /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/__init__.py -> /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.606s] byte-compiling /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py/numpy_compat.py to numpy_compat.cpython-310.pyc
+[1.608s] byte-compiling /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py/point_cloud2.py to point_cloud2.cpython-310.pyc
+[1.610s] byte-compiling /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py/__init__.py to __init__.cpython-310.pyc
+[1.610s] running install_data
+[1.610s] creating /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/share/ament_index
+[1.610s] creating /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/share/ament_index/resource_index
+[1.610s] creating /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/share/ament_index/resource_index/packages
+[1.611s] copying resource/sensor_msgs_py -> /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/share/ament_index/resource_index/packages
+[1.611s] copying package.xml -> /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/share/sensor_msgs_py
+[1.611s] running install_egg_info
+[1.613s] Copying ../../../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py-4.9.0-py3.10.egg-info
+[1.614s] running install_scripts
+[1.638s] writing list of installed files to '/root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/install.log'
+[1.676s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs_py' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../../build/sensor_msgs_py build --build-base /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/build install --record /root/ros_ws/src/Rescue_Car_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "statistics_msgs__py",
+		"source" : "/root/ros_ws/src/Rescue_Car_ws/build/statistics_msgs/statistics_msgs__py"
+	}
+}

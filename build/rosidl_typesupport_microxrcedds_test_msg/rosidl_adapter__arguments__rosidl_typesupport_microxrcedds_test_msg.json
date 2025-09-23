@@ -1,0 +1,13 @@
+{
+  "package_name": "rosidl_typesupport_microxrcedds_test_msg",
+  "non_idl_tuples": [
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/UnboundedString.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/Primitive.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/NotEnoughtMemoryTest.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/Sequence.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/Compound.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/BasicPrimitive.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/Regression10.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/rosidl_typesupport_microxrcedds/test/msg:msg/Regression11.msg"
+  ]
+}

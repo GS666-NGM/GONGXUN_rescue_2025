@@ -1,0 +1,13 @@
+# Target labels
+ string_publisher
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/string_publisher
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/string_publisher.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/string_publisher-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-update.rule

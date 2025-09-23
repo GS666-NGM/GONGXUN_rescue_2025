@@ -1,0 +1,13 @@
+# Target labels
+ int32_subscriber
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-update.rule

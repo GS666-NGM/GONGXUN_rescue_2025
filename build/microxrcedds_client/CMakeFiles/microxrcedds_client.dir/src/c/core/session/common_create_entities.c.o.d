@@ -1,0 +1,45 @@
+CMakeFiles/microxrcedds_client.dir/src/c/core/session/common_create_entities.c.o: \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities.c \
+ /usr/include/stdc-predef.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/type/xrce_types.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/defines.h \
+ /root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client/include/uxr/client/config.h \
+ /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/microcdr.h \
+ /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/visibility.h \
+ /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/common_create_entities.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/session.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/session_info.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/seq_num.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/object_id.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/visibility.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/stream_storage.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/output_best_effort_stream.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/output_reliable_stream.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/reliable_stream.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/input_best_effort_stream.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/input_reliable_stream.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/stream_id.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/../serialization/xrce_header_internal.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h \
+ /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client/include/uxr/client/profile/multithread/multithread.h

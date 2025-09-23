@@ -1,0 +1,1413 @@
+[1.499s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/micro-ROS-demos/rclc -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc
+[1.637s] -- The C compiler identification is GNU 11.4.0
+[2.160s] -- The CXX compiler identification is GNU 11.4.0
+[2.587s] -- Detecting C compiler ABI info
+[2.739s] -- Detecting C compiler ABI info - done
+[2.747s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.747s] -- Detecting C compile features
+[2.747s] -- Detecting C compile features - done
+[2.750s] -- Detecting CXX compiler ABI info
+[2.912s] -- Detecting CXX compiler ABI info - done
+[2.918s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.919s] -- Detecting CXX compile features
+[2.919s] -- Detecting CXX compile features - done
+[2.924s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.073s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.399s] -- Configuring done
+[3.432s] -- Generating done
+[3.437s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc
+[3.452s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/uros/micro-ROS-demos/rclc -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc
+[3.454s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc -- -j20 -l20
+[3.508s] [  1%] [34m[1mCreating directories for 'graph_visualizer'[0m
+[3.508s] [  2%] [34m[1mCreating directories for 'subscription_count'[0m
+[3.512s] [  3%] [34m[1mCreating directories for 'int32_subscriber'[0m
+[3.512s] [  3%] [34m[1mCreating directories for 'int32_publisher'[0m
+[3.518s] [  3%] [34m[1mCreating directories for 'addtwoints_client'[0m
+[3.518s] [  3%] [34m[1mCreating directories for 'publisher_count'[0m
+[3.518s] [  3%] [34m[1mCreating directories for 'addtwoints_server'[0m
+[3.519s] [  4%] [34m[1mCreating directories for 'configured_subscriber'[0m
+[3.520s] [  5%] [34m[1mCreating directories for 'fibonacci_action_server'[0m
+[3.521s] [  5%] [34m[1mCreating directories for 'int32_multinode'[0m
+[3.522s] [  6%] [34m[1mCreating directories for 'ping_pong'[0m
+[3.523s] [  7%] [34m[1mCreating directories for 'configured_publisher'[0m
+[3.524s] [  8%] [34m[1mCreating directories for 'fibonacci_action_client'[0m
+[3.527s] [  9%] [34m[1mCreating directories for 'int32_publisher_subscriber'[0m
+[3.530s] [  9%] [34m[1mCreating directories for 'fragmented_publication'[0m
+[3.536s] [  9%] [34m[1mCreating directories for 'ping_uros_agent'[0m
+[3.536s] [  9%] [34m[1mCreating directories for 'complex_msg_publisher'[0m
+[3.542s] [  9%] [34m[1mCreating directories for 'complex_msg_subscriber'[0m
+[3.544s] [  9%] [34m[1mCreating directories for 'fragmented_subscription'[0m
+[3.545s] [ 10%] [34m[1mCreating directories for 'timer'[0m
+[3.611s] [ 11%] [34m[1mNo download step for 'graph_visualizer'[0m
+[3.628s] [ 13%] [34m[1mNo download step for 'ping_pong'[0m
+[3.629s] [ 13%] [34m[1mNo download step for 'int32_publisher'[0m
+[3.629s] [ 13%] [34m[1mNo download step for 'subscription_count'[0m
+[3.635s] [ 13%] [34m[1mNo download step for 'addtwoints_client'[0m
+[3.641s] [ 13%] [34m[1mNo download step for 'publisher_count'[0m
+[3.643s] [ 14%] [34m[1mNo download step for 'int32_subscriber'[0m
+[3.648s] [ 14%] [34m[1mNo download step for 'complex_msg_publisher'[0m
+[3.650s] [ 15%] [34m[1mNo download step for 'fibonacci_action_server'[0m
+[3.654s] [ 16%] [34m[1mNo update step for 'graph_visualizer'[0m
+[3.656s] [ 16%] [34m[1mNo download step for 'fragmented_publication'[0m
+[3.662s] [ 16%] [34m[1mNo download step for 'addtwoints_server'[0m
+[3.662s] [ 16%] [34m[1mNo download step for 'complex_msg_subscriber'[0m
+[3.664s] [ 17%] [34m[1mNo download step for 'configured_subscriber'[0m
+[3.666s] [ 18%] [34m[1mNo update step for 'ping_pong'[0m
+[3.672s] [ 18%] [34m[1mNo download step for 'fragmented_subscription'[0m
+[3.672s] [ 19%] [34m[1mNo update step for 'subscription_count'[0m
+[3.672s] [ 19%] [34m[1mNo update step for 'publisher_count'[0m
+[3.673s] [ 20%] [34m[1mNo download step for 'fibonacci_action_client'[0m
+[3.673s] [ 20%] [34m[1mNo download step for 'configured_publisher'[0m
+[3.673s] [ 21%] [34m[1mNo download step for 'int32_publisher_subscriber'[0m
+[3.673s] [ 21%] [34m[1mNo download step for 'ping_uros_agent'[0m
+[3.673s] [ 21%] [34m[1mNo update step for 'addtwoints_client'[0m
+[3.680s] [ 21%] [34m[1mNo update step for 'int32_publisher'[0m
+[3.681s] [ 22%] [34m[1mNo download step for 'timer'[0m
+[3.683s] [ 23%] [34m[1mNo download step for 'int32_multinode'[0m
+[3.683s] [ 23%] [34m[1mNo update step for 'complex_msg_publisher'[0m
+[3.689s] [ 24%] [34m[1mNo update step for 'fibonacci_action_server'[0m
+[3.691s] [ 24%] [34m[1mNo update step for 'complex_msg_subscriber'[0m
+[3.700s] [ 25%] [34m[1mNo update step for 'int32_publisher_subscriber'[0m
+[3.701s] [ 25%] [34m[1mNo patch step for 'graph_visualizer'[0m
+[3.701s] [ 26%] [34m[1mNo update step for 'fibonacci_action_client'[0m
+[3.702s] [ 26%] [34m[1mNo update step for 'int32_subscriber'[0m
+[3.703s] [ 27%] [34m[1mNo update step for 'fragmented_subscription'[0m
+[3.704s] [ 28%] [34m[1mNo patch step for 'publisher_count'[0m
+[3.707s] [ 29%] [34m[1mNo update step for 'configured_publisher'[0m
+[3.708s] [ 29%] [34m[1mNo update step for 'configured_subscriber'[0m
+[3.721s] [ 30%] [34m[1mNo patch step for 'int32_publisher'[0m
+[3.721s] [ 30%] [34m[1mNo update step for 'fragmented_publication'[0m
+[3.721s] [ 30%] [34m[1mNo update step for 'ping_uros_agent'[0m
+[3.721s] [ 30%] [34m[1mNo patch step for 'subscription_count'[0m
+[3.721s] [ 31%] [34m[1mNo update step for 'addtwoints_server'[0m
+[3.721s] [ 31%] [34m[1mNo patch step for 'ping_pong'[0m
+[3.721s] [ 32%] [34m[1mNo patch step for 'complex_msg_publisher'[0m
+[3.722s] [ 33%] [34m[1mNo patch step for 'addtwoints_client'[0m
+[3.725s] [ 34%] [34m[1mNo patch step for 'complex_msg_subscriber'[0m
+[3.728s] [ 35%] [34m[1mNo update step for 'timer'[0m
+[3.736s] [ 35%] [34m[1mNo update step for 'int32_multinode'[0m
+[3.736s] [ 35%] [34m[1mNo patch step for 'int32_publisher_subscriber'[0m
+[3.738s] [ 35%] [34m[1mNo patch step for 'fibonacci_action_server'[0m
+[3.740s] [ 35%] [34m[1mNo patch step for 'fragmented_subscription'[0m
+[3.743s] [ 35%] [34m[1mNo patch step for 'int32_subscriber'[0m
+[3.748s] [ 35%] [34m[1mPerforming configure step for 'graph_visualizer'[0m
+[3.748s] [ 35%] [34m[1mNo patch step for 'fibonacci_action_client'[0m
+[3.750s] [ 36%] [34m[1mPerforming configure step for 'publisher_count'[0m
+[3.754s] [ 36%] [34m[1mPerforming configure step for 'subscription_count'[0m
+[3.757s] [ 36%] [34m[1mNo patch step for 'configured_subscriber'[0m
+[3.758s] [ 36%] [34m[1mNo patch step for 'timer'[0m
+[3.758s] [ 37%] [34m[1mNo patch step for 'ping_uros_agent'[0m
+[3.758s] [ 38%] [34m[1mPerforming configure step for 'complex_msg_subscriber'[0m
+[3.758s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/graph_introspection/graph_visualizer/tmp/graph_visualizer-cache-.cmake
+[3.758s] [ 38%] [34m[1mNo patch step for 'configured_publisher'[0m
+[3.758s] [ 38%] [34m[1mPerforming configure step for 'ping_pong'[0m
+[3.759s] [ 39%] [34m[1mNo patch step for 'fragmented_publication'[0m
+[3.762s] [ 40%] [34m[1mPerforming configure step for 'addtwoints_client'[0m
+[3.765s] [ 40%] [34m[1mPerforming configure step for 'complex_msg_publisher'[0m
+[3.766s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/graph_introspection/publisher_count/tmp/publisher_count-cache-.cmake
+[3.767s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/graph_introspection/subscription_count/tmp/subscription_count-cache-.cmake
+[3.768s] [ 41%] [34m[1mPerforming configure step for 'int32_publisher'[0m
+[3.769s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/tmp/complex_msg_subscriber-cache-.cmake
+[3.772s] [ 41%] [34m[1mNo patch step for 'addtwoints_server'[0m
+[3.772s] [ 41%] [34m[1mPerforming configure step for 'int32_publisher_subscriber'[0m
+[3.772s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/tmp/ping_pong-cache-.cmake
+[3.777s] [ 42%] [34m[1mPerforming configure step for 'fragmented_subscription'[0m
+[3.778s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/complex_msg_publisher/tmp/complex_msg_publisher-cache-.cmake
+[3.778s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/tmp/addtwoints_client-cache-.cmake
+[3.785s] [ 43%] [34m[1mNo patch step for 'int32_multinode'[0m
+[3.785s] [ 43%] [34m[1mPerforming configure step for 'int32_subscriber'[0m
+[3.785s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/tmp/int32_publisher-cache-.cmake
+[3.795s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/tmp/int32_publisher_subscriber-cache-.cmake
+[3.795s] [ 43%] [34m[1mPerforming configure step for 'fibonacci_action_server'[0m
+[3.797s] [ 43%] [34m[1mPerforming configure step for 'ping_uros_agent'[0m
+[3.797s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fragmented_subscription/tmp/fragmented_subscription-cache-.cmake
+[3.797s] [ 44%] [34m[1mPerforming configure step for 'fibonacci_action_client'[0m
+[3.801s] [ 45%] [34m[1mPerforming configure step for 'fragmented_publication'[0m
+[3.801s] [ 45%] [34m[1mPerforming configure step for 'timer'[0m
+[3.806s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/tmp/int32_subscriber-cache-.cmake
+[3.806s] [ 45%] [34m[1mPerforming configure step for 'configured_subscriber'[0m
+[3.809s] [ 45%] [34m[1mPerforming configure step for 'configured_publisher'[0m
+[3.812s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fibonacci_action_server/tmp/fibonacci_action_server-cache-.cmake
+[3.812s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_uros_agent/tmp/ping_uros_agent-cache-.cmake
+[3.818s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fibonacci_action_client/tmp/fibonacci_action_client-cache-.cmake
+[3.821s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fragmented_publication/tmp/fragmented_publication-cache-.cmake
+[3.823s] [ 46%] [34m[1mPerforming configure step for 'addtwoints_server'[0m
+[3.824s] [ 46%] [34m[1mPerforming configure step for 'int32_multinode'[0m
+[3.824s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/timer/tmp/timer-cache-.cmake
+[3.828s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/configuration_example/configured_subscriber/tmp/configured_subscriber-cache-.cmake
+[3.828s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/tmp/configured_publisher-cache-.cmake
+[3.838s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_server/tmp/addtwoints_server-cache-.cmake
+[3.843s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_multinode/tmp/int32_multinode-cache-.cmake
+[3.949s] -- The C compiler identification is GNU 11.4.0
+[3.949s] -- The C compiler identification is GNU 11.4.0
+[3.949s] -- The C compiler identification is GNU 11.4.0
+[3.950s] -- The C compiler identification is GNU 11.4.0
+[3.955s] -- The C compiler identification is GNU 11.4.0
+[3.958s] -- The C compiler identification is GNU 11.4.0
+[3.958s] -- The C compiler identification is GNU 11.4.0
+[3.960s] -- The C compiler identification is GNU 11.4.0
+[3.965s] -- The C compiler identification is GNU 11.4.0
+[3.977s] -- The C compiler identification is GNU 11.4.0
+[3.980s] -- The C compiler identification is GNU 11.4.0
+[3.980s] -- The C compiler identification is GNU 11.4.0
+[3.981s] -- The C compiler identification is GNU 11.4.0
+[3.981s] -- The C compiler identification is GNU 11.4.0
+[3.994s] -- The C compiler identification is GNU 11.4.0
+[4.001s] -- The C compiler identification is GNU 11.4.0
+[4.002s] -- The C compiler identification is GNU 11.4.0
+[4.004s] -- The C compiler identification is GNU 11.4.0
+[4.007s] -- The C compiler identification is GNU 11.4.0
+[4.011s] -- The C compiler identification is GNU 11.4.0
+[4.277s] -- Detecting C compiler ABI info
+[4.288s] -- Detecting C compiler ABI info
+[4.288s] -- Detecting C compiler ABI info
+[4.338s] -- Detecting C compiler ABI info
+[4.345s] -- Detecting C compiler ABI info
+[4.354s] -- Detecting C compiler ABI info
+[4.361s] -- Detecting C compiler ABI info
+[4.364s] -- Detecting C compiler ABI info
+[4.369s] -- Detecting C compiler ABI info
+[4.371s] -- Detecting C compiler ABI info
+[4.384s] -- Detecting C compiler ABI info
+[4.385s] -- Detecting C compiler ABI info
+[4.398s] -- Detecting C compiler ABI info
+[4.433s] -- Detecting C compiler ABI info
+[4.434s] -- Detecting C compiler ABI info
+[4.448s] -- Detecting C compiler ABI info
+[4.470s] -- Detecting C compiler ABI info
+[4.477s] -- Detecting C compiler ABI info - done
+[4.477s] -- Detecting C compiler ABI info - done
+[4.480s] -- Detecting C compiler ABI info - done
+[4.484s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.485s] -- Detecting C compile features
+[4.485s] -- Detecting C compile features - done
+[4.486s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.487s] -- Detecting C compile features
+[4.487s] -- Detecting C compile features - done
+[4.489s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.489s] -- Detecting C compile features
+[4.489s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.490s] -- Detecting C compile features - done
+[4.493s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.494s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.495s] -- Detecting C compiler ABI info
+[4.530s] -- Detecting C compiler ABI info
+[4.537s] -- Detecting C compiler ABI info - done
+[4.544s] -- Detecting C compiler ABI info - done
+[4.545s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.545s] -- Detecting C compile features
+[4.546s] -- Detecting C compile features - done
+[4.550s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.551s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.551s] -- Detecting C compile features
+[4.552s] -- Detecting C compile features - done
+[4.561s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.568s] -- Detecting C compiler ABI info - done
+[4.576s] -- Detecting C compiler ABI info - done
+[4.578s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.578s] -- Detecting C compile features
+[4.578s] -- Detecting C compile features - done
+[4.582s] -- Detecting C compiler ABI info - done
+[4.583s] -- Detecting C compiler ABI info - done
+[4.583s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.597s] -- Detecting C compiler ABI info - done
+[4.597s] -- Detecting C compiler ABI info
+[4.597s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.597s] -- Detecting C compile features
+[4.597s] -- Detecting C compile features - done
+[4.597s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.597s] -- Detecting C compile features
+[4.597s] -- Detecting C compile features - done
+[4.597s] -- Detecting C compiler ABI info - done
+[4.597s] -- Detecting C compiler ABI info - done
+[4.597s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.597s] -- Detecting C compile features
+[4.598s] -- Detecting C compile features - done
+[4.598s] -- Detecting C compiler ABI info - done
+[4.604s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.604s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.605s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.605s] -- Detecting C compile features
+[4.605s] -- Detecting C compile features - done
+[4.605s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.605s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.605s] -- Detecting C compile features
+[4.605s] -- Detecting C compile features - done
+[4.605s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.608s] -- Detecting C compile features
+[4.608s] -- Detecting C compile features - done
+[4.608s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.609s] -- Detecting C compile features
+[4.609s] -- Detecting C compile features - done
+[4.609s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.610s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.610s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.611s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.685s] -- Detecting C compiler ABI info - done
+[4.695s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.695s] -- Detecting C compile features
+[4.696s] -- Detecting C compile features - done
+[4.708s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.722s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.722s] -- Detecting C compiler ABI info - done
+[4.728s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.729s] -- Detecting C compiler ABI info - done
+[4.733s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.735s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.736s] -- Detecting C compile features
+[4.737s] -- Detecting C compile features - done
+[4.739s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.752s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.753s] -- Detecting C compile features
+[4.753s] -- Detecting C compile features - done
+[4.759s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.805s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.809s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.843s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.849s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.852s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.857s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.857s] -- Detecting C compiler ABI info - done
+[4.860s] -- Detecting C compiler ABI info - done
+[4.861s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.863s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.867s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.868s] -- Detecting C compile features
+[4.871s] -- Detecting C compile features - done
+[4.872s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.880s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.880s] -- Detecting C compile features
+[4.881s] -- Detecting C compile features - done
+[4.885s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.893s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.898s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[4.904s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.908s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[4.950s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[4.979s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.983s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.000s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.002s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.005s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.016s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.025s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.028s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.028s] -- Detecting C compiler ABI info - done
+[5.029s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.035s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.036s] -- Check for working C compiler: /usr/bin/cc - skipped
+[5.037s] -- Detecting C compile features
+[5.037s] -- Detecting C compile features - done
+[5.041s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.045s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.051s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.061s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.090s] -- Detecting C compiler ABI info - done
+[5.102s] -- Check for working C compiler: /usr/bin/cc - skipped
+[5.102s] -- Detecting C compile features
+[5.104s] -- Detecting C compile features - done
+[5.105s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.132s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.134s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.157s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.175s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.183s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.185s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.192s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.193s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.205s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.207s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.218s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.222s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.223s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.253s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.253s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.259s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.261s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.261s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.265s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.265s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.273s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.273s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.274s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.274s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.275s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.277s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.280s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.281s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.285s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.285s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.286s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.287s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.291s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.297s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.298s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.298s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.305s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.305s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.309s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.316s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.316s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.316s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.319s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.324s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.331s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.336s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.337s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.337s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.344s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.345s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.345s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.346s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.347s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.352s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.352s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.353s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.354s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.355s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.362s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.362s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.364s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.368s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.369s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.373s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.376s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.392s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.408s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.414s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.416s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.420s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.423s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.424s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.425s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.426s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.429s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.429s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.431s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.431s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.435s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.437s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.440s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.450s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.450s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.450s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.450s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.451s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.453s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.479s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.480s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.487s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.488s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.493s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.504s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.516s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.521s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.522s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.536s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[5.547s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.553s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.557s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.558s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.563s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.566s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.593s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.624s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.630s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.631s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.631s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.632s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.637s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.638s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.638s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.643s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.644s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.644s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.649s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.654s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.661s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.661s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.666s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.679s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.680s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.683s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.705s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.716s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.718s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.722s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.722s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.723s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.780s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.784s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.785s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.788s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.788s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.791s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.792s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.797s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.861s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.867s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.878s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.893s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.924s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.962s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.969s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.980s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.980s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.988s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.001s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.034s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.100s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[6.106s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.848s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.849s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.850s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.851s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.852s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.983s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.984s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.993s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.025s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.032s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.130s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.133s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.179s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.181s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.181s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.636s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.826s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[8.134s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[8.134s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[8.140s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[8.293s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.293s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.345s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.426s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.427s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.454s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.460s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.544s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.554s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.562s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.650s] -- Found FastRTPS: /opt/ros/humble/include  
+[8.674s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.509s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.619s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.648s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.660s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.686s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.697s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.769s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.771s] -- Found FastRTPS: /opt/ros/humble/include  
+[10.957s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[10.971s] -- Looking for pthread.h
+[11.031s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.034s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.043s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.046s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.048s] -- Looking for pthread.h
+[11.050s] -- Looking for pthread.h
+[11.060s] -- Looking for pthread.h
+[11.066s] -- Looking for pthread.h
+[11.138s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.151s] -- Looking for pthread.h
+[11.157s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.172s] -- Looking for pthread.h
+[11.199s] -- Looking for pthread.h - found
+[11.200s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.255s] -- Looking for pthread.h - found
+[11.256s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.257s] -- Looking for pthread.h - found
+[11.258s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.296s] -- Looking for pthread.h - found
+[11.297s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.299s] -- Looking for pthread.h - found
+[11.300s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.382s] -- Looking for pthread.h - found
+[11.382s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.405s] -- Looking for pthread.h - found
+[11.405s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.441s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.443s] -- Found Threads: TRUE  
+[11.451s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.495s] -- Found example_interfaces: 0.9.3 (/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/share/example_interfaces/cmake)
+[11.502s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.503s] -- Found Threads: TRUE  
+[11.505s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.505s] -- Found Threads: TRUE  
+[11.513s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.513s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.517s] -- Configuring done
+[11.532s] -- Generating done
+[11.532s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.534s] -- Found Threads: TRUE  
+[11.534s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build
+[11.553s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.579s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[11.581s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.581s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[11.581s] -- Found Threads: TRUE  
+[11.584s] [ 46%] [34m[1mPerforming build step for 'addtwoints_client'[0m
+[11.590s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.595s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[11.600s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[11.607s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[11.607s] -- Configuring done
+[11.609s] -- Configuring done
+[11.620s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[11.620s] -- Generating done
+[11.620s] -- Generating done
+[11.622s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/graph_introspection/graph_visualizer/src/graph_visualizer-build
+[11.622s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-build
+[11.635s] -- Configuring done
+[11.642s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[11.649s] -- Generating done
+[11.651s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-build
+[11.651s] [ 50%] [32mBuilding C object CMakeFiles/addtwoints_client.dir/main.c.o[0m
+[11.652s] -- Configuring done
+[11.656s] [ 47%] [34m[1mPerforming build step for 'int32_subscriber'[0m
+[11.661s] [ 48%] [34m[1mPerforming build step for 'graph_visualizer'[0m
+[11.663s] -- Generating done
+[11.665s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/graph_introspection/subscription_count/src/subscription_count-build
+[11.683s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.686s] [ 49%] [34m[1mPerforming build step for 'ping_pong'[0m
+[11.688s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.689s] -- Found Threads: TRUE  
+[11.698s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.698s] [ 49%] [34m[1mPerforming build step for 'subscription_count'[0m
+[11.698s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.698s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.701s] -- Found Threads: TRUE  
+[11.705s] -- Looking for pthread.h
+[11.713s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[11.713s] [ 50%] [32mBuilding C object CMakeFiles/int32_subscriber.dir/main.c.o[0m
+[11.719s] -- Looking for pthread.h
+[11.721s] [ 50%] [32mBuilding C object CMakeFiles/graph_visualizer.dir/main.c.o[0m
+[11.741s] [100%] [32m[1mLinking C executable addtwoints_client[0m
+[11.742s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[11.750s] [ 50%] [32mBuilding C object CMakeFiles/ping_pong.dir/main.c.o[0m
+[11.765s] -- Found complex_msgs: 3.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/share/complex_msgs/cmake)
+[11.765s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[11.765s] [ 50%] [32mBuilding C object CMakeFiles/subscription_count.dir/main.c.o[0m
+[11.772s] -- Configuring done
+[11.777s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[11.784s] -- Generating done
+[11.787s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-build
+[11.789s] -- Configuring done
+[11.801s] [100%] [32m[1mLinking C executable int32_subscriber[0m
+[11.806s] -- Generating done
+[11.807s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/complex_msg_publisher/src/complex_msg_publisher-build
+[11.812s] [100%] [32m[1mLinking C executable graph_visualizer[0m
+[11.826s] [ 49%] [34m[1mPerforming build step for 'int32_publisher_subscriber'[0m
+[11.845s] [100%] [32m[1mLinking C executable ping_pong[0m
+[11.846s] [ 50%] [34m[1mPerforming build step for 'complex_msg_publisher'[0m
+[11.858s] [100%] [32m[1mLinking C executable subscription_count[0m
+[11.877s] [ 50%] [32mBuilding C object CMakeFiles/int32_publisher_subscriber.dir/main.c.o[0m
+[11.902s] [ 50%] [32mBuilding C object CMakeFiles/complex_msg_publisher.dir/main.c.o[0m
+[11.942s] -- Looking for pthread.h - found
+[11.943s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.961s] -- Looking for pthread.h - found
+[11.961s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.969s] [100%] [32m[1mLinking C executable int32_publisher_subscriber[0m
+[11.984s] [100%] Built target addtwoints_client
+[11.984s] [100%] [32m[1mLinking C executable complex_msg_publisher[0m
+[12.015s] [ 51%] [34m[1mPerforming install step for 'addtwoints_client'[0m
+[12.064s] [100%] Built target int32_subscriber
+[12.070s] [35m[1mConsolidate compiler generated dependencies of target addtwoints_client[0m
+[12.088s] [100%] Built target addtwoints_client
+[12.088s] [ 51%] [34m[1mPerforming install step for 'int32_subscriber'[0m
+[12.096s] [100%] Built target graph_visualizer
+[12.109s] [100%] Built target ping_pong
+[12.118s] [36mInstall the project...[0m
+[12.118s] [ 51%] [34m[1mPerforming install step for 'graph_visualizer'[0m
+[12.130s] -- Install configuration: ""
+[12.130s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_client/addtwoints_client
+[12.130s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_client/addtwoints_client" to ""
+[12.134s] [ 51%] [34m[1mPerforming install step for 'ping_pong'[0m
+[12.134s] [35m[1mConsolidate compiler generated dependencies of target int32_subscriber[0m
+[12.142s] [100%] Built target subscription_count
+[12.149s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.152s] [100%] Built target int32_subscriber
+[12.155s] [ 51%] [34m[1mCompleted 'addtwoints_client'[0m
+[12.162s] [35m[1mConsolidate compiler generated dependencies of target graph_visualizer[0m
+[12.163s] [ 51%] [34m[1mPerforming install step for 'subscription_count'[0m
+[12.168s] -- Looking for pthread.h
+[12.175s] [36mInstall the project...[0m
+[12.177s] [100%] Built target graph_visualizer
+[12.180s] [35m[1mConsolidate compiler generated dependencies of target ping_pong[0m
+[12.185s] -- Install configuration: ""
+[12.185s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_subscriber/int32_subscriber
+[12.185s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_subscriber/int32_subscriber" to ""
+[12.188s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.189s] -- Found Threads: TRUE  
+[12.196s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.198s] [100%] Built target ping_pong
+[12.204s] [ 51%] Built target addtwoints_client
+[12.207s] [36mInstall the project...[0m
+[12.211s] [ 51%] [34m[1mCompleted 'int32_subscriber'[0m
+[12.211s] [35m[1mConsolidate compiler generated dependencies of target subscription_count[0m
+[12.219s] -- Install configuration: ""
+[12.219s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/graph_visualizer/graph_visualizer
+[12.220s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/graph_visualizer/graph_visualizer" to ""
+[12.227s] [36mInstall the project...[0m
+[12.229s] [100%] Built target subscription_count
+[12.234s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.234s] [ 51%] [34m[1mCreating directories for 'string_publisher'[0m
+[12.235s] -- Found Threads: TRUE  
+[12.238s] -- Install configuration: ""
+[12.238s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/ping_pong/ping_pong
+[12.238s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/ping_pong/ping_pong" to ""
+[12.239s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.242s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.246s] [100%] Built target complex_msg_publisher
+[12.247s] [ 51%] [34m[1mCompleted 'graph_visualizer'[0m
+[12.251s] [36mInstall the project...[0m
+[12.252s] -- Configuring done
+[12.255s] [100%] Built target int32_publisher_subscriber
+[12.256s] [ 51%] Built target int32_subscriber
+[12.261s] [ 51%] [34m[1mCompleted 'ping_pong'[0m
+[12.263s] -- Install configuration: ""
+[12.264s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/subscription_count/subscription_count
+[12.264s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/subscription_count/subscription_count" to ""
+[12.264s] -- Generating done
+[12.266s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/graph_introspection/publisher_count/src/publisher_count-build
+[12.270s] [ 52%] [34m[1mPerforming install step for 'complex_msg_publisher'[0m
+[12.279s] [ 52%] [34m[1mPerforming install step for 'int32_publisher_subscriber'[0m
+[12.284s] [ 52%] [34m[1mCreating directories for 'string_subscriber'[0m
+[12.285s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[12.285s] [ 53%] [34m[1mCompleted 'subscription_count'[0m
+[12.287s] [ 53%] Built target graph_visualizer
+[12.288s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.299s] [ 53%] [34m[1mPerforming build step for 'publisher_count'[0m
+[12.302s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.305s] [ 53%] Built target ping_pong
+[12.309s] -- Looking for pthread.h
+[12.313s] [35m[1mConsolidate compiler generated dependencies of target complex_msg_publisher[0m
+[12.314s] [ 54%] [34m[1mCreating directories for 'autodiscover_agent'[0m
+[12.315s] -- Configuring done
+[12.325s] [ 54%] Built target subscription_count
+[12.326s] -- Generating done
+[12.328s] [35m[1mConsolidate compiler generated dependencies of target int32_publisher_subscriber[0m
+[12.328s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fragmented_publication/src/fragmented_publication-build
+[12.328s] [100%] Built target complex_msg_publisher
+[12.332s] [ 55%] [34m[1mNo download step for 'string_publisher'[0m
+[12.333s] [ 56%] [34m[1mCreating directories for 'static_type_handling'[0m
+[12.346s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.346s] [100%] Built target int32_publisher_subscriber
+[12.353s] [ 56%] [34m[1mCreating directories for 'epoch_synchronization'[0m
+[12.354s] [36mInstall the project...[0m
+[12.364s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.364s] [ 50%] [32mBuilding C object CMakeFiles/publisher_count.dir/main.c.o[0m
+[12.364s] [ 56%] [34m[1mNo update step for 'string_publisher'[0m
+[12.365s] -- Install configuration: ""
+[12.366s] -- Looking for pthread.h
+[12.366s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_publisher/complex_msg_publisher
+[12.366s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_publisher/complex_msg_publisher" to ""
+[12.367s] [ 56%] [34m[1mPerforming build step for 'fragmented_publication'[0m
+[12.374s] [36mInstall the project...[0m
+[12.380s] -- Looking for pthread.h
+[12.384s] [ 56%] [34m[1mNo download step for 'string_subscriber'[0m
+[12.384s] -- Install configuration: ""
+[12.384s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher_subscriber/int32_publisher_subscriber
+[12.385s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher_subscriber/int32_publisher_subscriber" to ""
+[12.393s] [ 56%] [34m[1mCompleted 'complex_msg_publisher'[0m
+[12.395s] [ 57%] [34m[1mNo patch step for 'string_publisher'[0m
+[12.412s] [ 58%] [34m[1mNo download step for 'autodiscover_agent'[0m
+[12.412s] [ 59%] [34m[1mCompleted 'int32_publisher_subscriber'[0m
+[12.414s] [ 59%] [34m[1mNo update step for 'string_subscriber'[0m
+[12.423s] [ 50%] [32mBuilding C object CMakeFiles/fragmented_publication.dir/main.c.o[0m
+[12.429s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.433s] [ 59%] [34m[1mPerforming configure step for 'string_publisher'[0m
+[12.436s] [ 60%] [34m[1mNo download step for 'static_type_handling'[0m
+[12.441s] [ 60%] Built target complex_msg_publisher
+[12.449s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.449s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/tmp/string_publisher-cache-.cmake
+[12.449s] [ 60%] [34m[1mNo download step for 'epoch_synchronization'[0m
+[12.449s] [ 61%] [34m[1mNo update step for 'autodiscover_agent'[0m
+[12.450s] -- Looking for pthread.h
+[12.453s] -- Looking for pthread.h - found
+[12.456s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.457s] [ 62%] [34m[1mNo patch step for 'string_subscriber'[0m
+[12.462s] [100%] [32m[1mLinking C executable publisher_count[0m
+[12.463s] [ 62%] Built target int32_publisher_subscriber
+[12.473s] -- Looking for pthread.h
+[12.473s] [ 63%] [34m[1mNo update step for 'static_type_handling'[0m
+[12.473s] [ 64%] [34m[1mCreating directories for 'parameter_server'[0m
+[12.480s] [ 64%] [34m[1mNo update step for 'epoch_synchronization'[0m
+[12.485s] [ 64%] [34m[1mNo patch step for 'autodiscover_agent'[0m
+[12.490s] [ 65%] [34m[1mPerforming configure step for 'string_subscriber'[0m
+[12.495s] [ 65%] [34m[1mCreating directories for 'multithread_publisher_subscriber'[0m
+[12.504s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/tmp/string_subscriber-cache-.cmake
+[12.506s] [ 65%] [34m[1mNo patch step for 'static_type_handling'[0m
+[12.512s] [ 66%] [34m[1mNo patch step for 'epoch_synchronization'[0m
+[12.526s] [ 66%] [34m[1mPerforming configure step for 'autodiscover_agent'[0m
+[12.526s] [100%] [32m[1mLinking C executable fragmented_publication[0m
+[12.537s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/autodiscover_agent/tmp/autodiscover_agent-cache-.cmake
+[12.543s] [ 66%] [34m[1mPerforming configure step for 'static_type_handling'[0m
+[12.546s] [ 67%] [34m[1mPerforming configure step for 'epoch_synchronization'[0m
+[12.554s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/static_type_handling/tmp/static_type_handling-cache-.cmake
+[12.559s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/epoch_synchronization/tmp/epoch_synchronization-cache-.cmake
+[12.566s] -- Looking for pthread.h - found
+[12.566s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.571s] [ 67%] [34m[1mNo download step for 'parameter_server'[0m
+[12.590s] [ 67%] [34m[1mNo download step for 'multithread_publisher_subscriber'[0m
+[12.601s] [ 68%] [34m[1mNo update step for 'parameter_server'[0m
+[12.608s] -- Looking for pthread.h - found
+[12.608s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.609s] -- Looking for pthread.h - found
+[12.610s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.620s] [ 68%] [34m[1mNo update step for 'multithread_publisher_subscriber'[0m
+[12.626s] [ 68%] [34m[1mNo patch step for 'parameter_server'[0m
+[12.652s] [ 69%] [34m[1mNo patch step for 'multithread_publisher_subscriber'[0m
+[12.654s] -- The C compiler identification is GNU 11.4.0
+[12.656s] [ 70%] [34m[1mPerforming configure step for 'parameter_server'[0m
+[12.656s] -- Looking for pthread.h - found
+[12.656s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.659s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.660s] -- Found Threads: TRUE  
+[12.667s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.668s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/parameter_server/tmp/parameter_server-cache-.cmake
+[12.686s] [ 71%] [34m[1mPerforming configure step for 'multithread_publisher_subscriber'[0m
+[12.697s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/multithread_publisher_subscriber/tmp/multithread_publisher_subscriber-cache-.cmake
+[12.699s] -- Looking for pthread.h - found
+[12.700s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.700s] -- The C compiler identification is GNU 11.4.0
+[12.710s] -- Found complex_msgs: 3.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/share/complex_msgs/cmake)
+[12.712s] [100%] Built target publisher_count
+[12.715s] -- The C compiler identification is GNU 11.4.0
+[12.722s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.731s] [ 72%] [34m[1mPerforming install step for 'publisher_count'[0m
+[12.732s] -- Configuring done
+[12.739s] [100%] Built target fragmented_publication
+[12.740s] -- Generating done
+[12.742s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-build
+[12.742s] -- The C compiler identification is GNU 11.4.0
+[12.752s] -- The C compiler identification is GNU 11.4.0
+[12.760s] [ 73%] [34m[1mPerforming install step for 'fragmented_publication'[0m
+[12.769s] [35m[1mConsolidate compiler generated dependencies of target publisher_count[0m
+[12.770s] [ 73%] [34m[1mPerforming build step for 'complex_msg_subscriber'[0m
+[12.779s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.779s] -- Found Threads: TRUE  
+[12.781s] [100%] Built target publisher_count
+[12.785s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.795s] [35m[1mConsolidate compiler generated dependencies of target fragmented_publication[0m
+[12.802s] [36mInstall the project...[0m
+[12.809s] [100%] Built target fragmented_publication
+[12.810s] -- Install configuration: ""
+[12.810s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/publisher_count/publisher_count
+[12.811s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/publisher_count/publisher_count" to ""
+[12.812s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.814s] -- Found Threads: TRUE  
+[12.821s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.821s] [ 50%] [32mBuilding C object CMakeFiles/complex_msg_subscriber.dir/main.c.o[0m
+[12.823s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[12.831s] [36mInstall the project...[0m
+[12.831s] [ 74%] [34m[1mCompleted 'publisher_count'[0m
+[12.833s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.835s] -- Found Threads: TRUE  
+[12.839s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.840s] -- Install configuration: ""
+[12.841s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fragmented_publication/fragmented_publication
+[12.841s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fragmented_publication/fragmented_publication" to ""
+[12.842s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.850s] -- Configuring done
+[12.859s] -- The C compiler identification is GNU 11.4.0
+[12.863s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.863s] -- Generating done
+[12.863s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[12.864s] -- Found Threads: TRUE  
+[12.865s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-build
+[12.866s] [ 74%] [34m[1mCompleted 'fragmented_publication'[0m
+[12.873s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.874s] [ 74%] Built target publisher_count
+[12.877s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.882s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[12.883s] -- The C compiler identification is GNU 11.4.0
+[12.886s] -- Configuring done
+[12.893s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.893s] [ 74%] [34m[1mPerforming build step for 'fragmented_subscription'[0m
+[12.896s] [100%] [32m[1mLinking C executable complex_msg_subscriber[0m
+[12.897s] -- Generating done
+[12.900s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/configuration_example/configured_subscriber/src/configured_subscriber-build
+[12.902s] -- Configuring done
+[12.912s] [ 74%] Built target fragmented_publication
+[12.914s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.915s] -- Generating done
+[12.915s] -- Found Threads: TRUE  
+[12.916s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[12.917s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-build
+[12.924s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[12.931s] -- Configuring done
+[12.933s] [ 75%] [34m[1mPerforming build step for 'configured_subscriber'[0m
+[12.940s] -- Generating done
+[12.941s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_multinode/src/int32_multinode-build
+[12.949s] [ 75%] [34m[1mPerforming build step for 'int32_publisher'[0m
+[12.954s] [ 50%] [32mBuilding C object CMakeFiles/fragmented_subscription.dir/main.c.o[0m
+[12.961s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[12.966s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[12.972s] [ 76%] [34m[1mPerforming build step for 'int32_multinode'[0m
+[12.972s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[12.981s] -- Looking for pthread.h
+[12.989s] [ 50%] [32mBuilding C object CMakeFiles/configured_subscriber.dir/main.c.o[0m
+[12.989s] -- Configuring done
+[12.997s] -- Generating done
+[13.000s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-build
+[13.002s] [ 50%] [32mBuilding C object CMakeFiles/int32_publisher.dir/main.c.o[0m
+[13.031s] [100%] [32m[1mLinking C executable fragmented_subscription[0m
+[13.031s] [ 50%] [32mBuilding C object CMakeFiles/int32_multinode.dir/main.c.o[0m
+[13.035s] [ 77%] [34m[1mPerforming build step for 'ping_uros_agent'[0m
+[13.073s] [100%] [32m[1mLinking C executable configured_subscriber[0m
+[13.086s] [100%] [32m[1mLinking C executable int32_publisher[0m
+[13.092s] [ 50%] [32mBuilding C object CMakeFiles/ping_uros_agent.dir/main.c.o[0m
+[13.103s] -- Detecting C compiler ABI info
+[13.110s] [100%] [32m[1mLinking C executable int32_multinode[0m
+[13.127s] [100%] Built target complex_msg_subscriber
+[13.150s] [ 78%] [34m[1mPerforming install step for 'complex_msg_subscriber'[0m
+[13.161s] [100%] [32m[1mLinking C executable ping_uros_agent[0m
+[13.174s] -- Detecting C compiler ABI info
+[13.185s] [35m[1mConsolidate compiler generated dependencies of target complex_msg_subscriber[0m
+[13.185s] -- Looking for pthread.h - found
+[13.186s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[13.200s] [100%] Built target complex_msg_subscriber
+[13.214s] -- Detecting C compiler ABI info
+[13.220s] [36mInstall the project...[0m
+[13.228s] -- Detecting C compiler ABI info
+[13.230s] -- Install configuration: ""
+[13.230s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber
+[13.230s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber" to ""
+[13.244s] [100%] Built target fragmented_subscription
+[13.250s] [ 79%] [34m[1mCompleted 'complex_msg_subscriber'[0m
+[13.266s] [ 80%] [34m[1mPerforming install step for 'fragmented_subscription'[0m
+[13.287s] [ 80%] Built target complex_msg_subscriber
+[13.301s] -- Detecting C compiler ABI info - done
+[13.306s] -- Detecting C compiler ABI info
+[13.308s] [100%] Built target configured_subscriber
+[13.308s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[13.309s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.309s] [35m[1mConsolidate compiler generated dependencies of target fragmented_subscription[0m
+[13.309s] -- Detecting C compile features
+[13.309s] -- Detecting C compile features - done
+[13.313s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.321s] [100%] Built target int32_publisher
+[13.325s] [100%] Built target fragmented_subscription
+[13.326s] -- Looking for pthread.h
+[13.331s] [ 80%] [34m[1mPerforming install step for 'configured_subscriber'[0m
+[13.344s] [ 81%] [34m[1mPerforming install step for 'int32_publisher'[0m
+[13.349s] [36mInstall the project...[0m
+[13.354s] [100%] Built target int32_multinode
+[13.354s] -- Detecting C compiler ABI info
+[13.364s] -- Install configuration: ""
+[13.364s] -- Detecting C compiler ABI info - done
+[13.365s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fragmented_subscription/fragmented_subscription
+[13.366s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fragmented_subscription/fragmented_subscription" to ""
+[13.374s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.374s] -- Detecting C compile features
+[13.374s] -- Detecting C compile features - done
+[13.377s] [35m[1mConsolidate compiler generated dependencies of target configured_subscriber[0m
+[13.378s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.379s] [ 81%] [34m[1mPerforming install step for 'int32_multinode'[0m
+[13.384s] [100%] Built target ping_uros_agent
+[13.384s] [35m[1mConsolidate compiler generated dependencies of target int32_publisher[0m
+[13.390s] [ 82%] [34m[1mCompleted 'fragmented_subscription'[0m
+[13.395s] [100%] Built target configured_subscriber
+[13.399s] [100%] Built target int32_publisher
+[13.406s] [ 83%] [34m[1mPerforming install step for 'ping_uros_agent'[0m
+[13.414s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[13.415s] -- Found Threads: TRUE  
+[13.418s] [36mInstall the project...[0m
+[13.423s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[13.425s] [36mInstall the project...[0m
+[13.429s] -- Install configuration: ""
+[13.429s] [35m[1mConsolidate compiler generated dependencies of target int32_multinode[0m
+[13.429s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/configured_subscriber/configured_subscriber
+[13.429s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/configured_subscriber/configured_subscriber" to ""
+[13.431s] [ 83%] Built target fragmented_subscription
+[13.434s] -- Install configuration: ""
+[13.435s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher/int32_publisher
+[13.435s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher/int32_publisher" to ""
+[13.440s] -- Detecting C compiler ABI info
+[13.446s] [100%] Built target int32_multinode
+[13.454s] [35m[1mConsolidate compiler generated dependencies of target ping_uros_agent[0m
+[13.454s] [ 83%] [34m[1mCompleted 'configured_subscriber'[0m
+[13.460s] -- Detecting C compiler ABI info - done
+[13.460s] [ 84%] [34m[1mCompleted 'int32_publisher'[0m
+[13.463s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.463s] -- Detecting C compile features
+[13.463s] -- Detecting C compile features - done
+[13.468s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.470s] [36mInstall the project...[0m
+[13.471s] [100%] Built target ping_uros_agent
+[13.471s] -- Found example_interfaces: 0.9.3 (/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/share/example_interfaces/cmake)
+[13.478s] -- Detecting C compiler ABI info - done
+[13.480s] -- Install configuration: ""
+[13.480s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_multinode/int32_multinode
+[13.481s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_multinode/int32_multinode" to ""
+[13.487s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.487s] -- Detecting C compile features
+[13.487s] -- Detecting C compile features - done
+[13.489s] -- Configuring done
+[13.493s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.497s] [36mInstall the project...[0m
+[13.498s] [ 84%] Built target configured_subscriber
+[13.498s] -- Generating done
+[13.500s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fibonacci_action_client/src/fibonacci_action_client-build
+[13.501s] [ 84%] Built target int32_publisher
+[13.504s] [ 84%] [34m[1mCompleted 'int32_multinode'[0m
+[13.507s] -- Install configuration: ""
+[13.508s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent
+[13.508s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent" to ""
+[13.528s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.533s] [ 84%] [34m[1mPerforming build step for 'fibonacci_action_client'[0m
+[13.534s] [ 84%] [34m[1mCompleted 'ping_uros_agent'[0m
+[13.553s] -- Looking for pthread.h - found
+[13.553s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[13.553s] [ 84%] Built target int32_multinode
+[13.556s] -- Detecting C compiler ABI info - done
+[13.560s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[13.561s] -- Detecting C compiler ABI info - done
+[13.568s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.568s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.568s] -- Detecting C compile features
+[13.569s] -- Detecting C compile features
+[13.569s] -- Detecting C compile features - done
+[13.569s] -- Detecting C compile features - done
+[13.571s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.571s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.576s] -- Looking for pthread.h
+[13.585s] [ 84%] Built target ping_uros_agent
+[13.594s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.612s] [ 50%] [32mBuilding C object CMakeFiles/fibonacci_action_client.dir/main.c.o[0m
+[13.668s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[13.704s] [100%] [32m[1mLinking C executable fibonacci_action_client[0m
+[13.704s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.707s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.709s] -- Detecting C compiler ABI info - done
+[13.719s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.719s] -- Detecting C compile features
+[13.719s] -- Detecting C compile features - done
+[13.724s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.741s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[13.772s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.775s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[13.776s] -- Found Threads: TRUE  
+[13.785s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[13.794s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.811s] -- Looking for pthread.h - found
+[13.811s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[13.824s] -- Found example_interfaces: 0.9.3 (/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/share/example_interfaces/cmake)
+[13.837s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[13.842s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[13.842s] -- Configuring done
+[13.852s] -- Generating done
+[13.853s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-build
+[13.886s] [ 84%] [34m[1mPerforming build step for 'addtwoints_server'[0m
+[13.897s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[13.899s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[13.901s] [100%] Built target fibonacci_action_client
+[13.912s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[13.913s] -- Looking for pthread.h
+[13.922s] [ 84%] [34m[1mPerforming install step for 'fibonacci_action_client'[0m
+[13.927s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[13.936s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[13.940s] [ 50%] [32mBuilding C object CMakeFiles/addtwoints_server.dir/main.c.o[0m
+[13.943s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[13.954s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[13.959s] [35m[1mConsolidate compiler generated dependencies of target fibonacci_action_client[0m
+[13.966s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[13.974s] [100%] Built target fibonacci_action_client
+[13.988s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[13.988s] -- Found Threads: TRUE  
+[13.989s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[13.993s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[13.995s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[13.998s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[13.999s] [36mInstall the project...[0m
+[14.008s] -- Install configuration: ""
+[14.008s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_client/fibonacci_action_client
+[14.008s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[14.008s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_client/fibonacci_action_client" to ""
+[14.010s] [100%] [32m[1mLinking C executable addtwoints_server[0m
+[14.026s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.031s] [ 85%] [34m[1mCompleted 'fibonacci_action_client'[0m
+[14.033s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[14.034s] -- Found example_interfaces: 0.9.3 (/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/share/example_interfaces/cmake)
+[14.037s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[14.039s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[14.042s] -- Found rcl: 5.3.10 (/opt/ros/humble/share/rcl/cmake)
+[14.045s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[14.050s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[14.054s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.056s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[14.056s] -- Configuring done
+[14.056s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.058s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.067s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.067s] -- Generating done
+[14.068s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/fibonacci_action_server/src/fibonacci_action_server-build
+[14.071s] [ 85%] Built target fibonacci_action_client
+[14.074s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.093s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.100s] [ 86%] [34m[1mPerforming build step for 'fibonacci_action_server'[0m
+[14.105s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.107s] -- Looking for pthread.h - found
+[14.107s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[14.116s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.121s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.141s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[14.146s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.148s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[14.151s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.153s] [ 50%] [32mBuilding C object CMakeFiles/fibonacci_action_server.dir/main.c.o[0m
+[14.160s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[14.162s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.165s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.176s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.184s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[14.190s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[14.202s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.204s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[14.210s] [100%] Built target addtwoints_server
+[14.218s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.228s] [100%] [32m[1mLinking C executable fibonacci_action_server[0m
+[14.231s] [ 87%] [34m[1mPerforming install step for 'addtwoints_server'[0m
+[14.244s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.250s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.255s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.262s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[14.271s] [35m[1mConsolidate compiler generated dependencies of target addtwoints_server[0m
+[14.276s] -- Looking for pthread.h
+[14.287s] [100%] Built target addtwoints_server
+[14.299s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[14.300s] -- Found Threads: TRUE  
+[14.302s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.304s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[14.307s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[14.308s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.311s] [36mInstall the project...[0m
+[14.312s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[14.322s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[14.323s] -- Install configuration: ""
+[14.323s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_server/addtwoints_server
+[14.324s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_server/addtwoints_server" to ""
+[14.336s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[14.339s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[14.344s] [ 88%] [34m[1mCompleted 'addtwoints_server'[0m
+[14.350s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[14.356s] -- Configuring done
+[14.360s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[14.366s] -- Generating done
+[14.367s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-build
+[14.386s] [ 88%] Built target addtwoints_server
+[14.396s] [ 89%] [34m[1mPerforming build step for 'configured_publisher'[0m
+[14.405s] [100%] Built target fibonacci_action_server
+[14.409s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[14.414s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[14.423s] [ 89%] [34m[1mPerforming install step for 'fibonacci_action_server'[0m
+[14.443s] [ 50%] [32mBuilding C object CMakeFiles/configured_publisher.dir/main.c.o[0m
+[14.467s] [35m[1mConsolidate compiler generated dependencies of target fibonacci_action_server[0m
+[14.469s] -- Looking for pthread.h - found
+[14.470s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[14.482s] [100%] Built target fibonacci_action_server
+[14.501s] [36mInstall the project...[0m
+[14.506s] [100%] [32m[1mLinking C executable configured_publisher[0m
+[14.508s] -- Install configuration: ""
+[14.508s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_server/fibonacci_action_server
+[14.508s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_server/fibonacci_action_server" to ""
+[14.526s] [ 89%] [34m[1mCompleted 'fibonacci_action_server'[0m
+[14.557s] [ 89%] Built target fibonacci_action_server
+[14.637s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[14.639s] -- Found Threads: TRUE  
+[14.649s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[14.689s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[14.699s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[14.701s] [100%] Built target configured_publisher
+[14.706s] -- Configuring done
+[14.714s] -- Generating done
+[14.716s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/timer/src/timer-build
+[14.720s] [ 89%] [34m[1mPerforming install step for 'configured_publisher'[0m
+[14.741s] [ 90%] [34m[1mPerforming build step for 'timer'[0m
+[14.753s] [35m[1mConsolidate compiler generated dependencies of target configured_publisher[0m
+[14.768s] [100%] Built target configured_publisher
+[14.787s] [36mInstall the project...[0m
+[14.788s] [ 50%] [32mBuilding C object CMakeFiles/timer.dir/main.c.o[0m
+[14.796s] -- Install configuration: ""
+[14.796s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/configured_publisher/configured_publisher
+[14.796s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/configured_publisher/configured_publisher" to ""
+[14.817s] [ 90%] [34m[1mCompleted 'configured_publisher'[0m
+[14.845s] [100%] [32m[1mLinking C executable timer[0m
+[14.848s] [ 90%] Built target configured_publisher
+[15.016s] [100%] Built target timer
+[15.030s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.032s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.034s] [ 90%] [34m[1mPerforming install step for 'timer'[0m
+[15.073s] [35m[1mConsolidate compiler generated dependencies of target timer[0m
+[15.088s] [100%] Built target timer
+[15.109s] [36mInstall the project...[0m
+[15.117s] -- Install configuration: ""
+[15.118s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/timer/timer
+[15.118s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/timer/timer" to ""
+[15.137s] [ 90%] [34m[1mCompleted 'timer'[0m
+[15.169s] [ 90%] Built target timer
+[15.365s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.366s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.614s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.615s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.805s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[15.928s] -- Found FastRTPS: /opt/ros/humble/include  
+[15.934s] -- Found FastRTPS: /opt/ros/humble/include  
+[16.260s] -- Found FastRTPS: /opt/ros/humble/include  
+[16.265s] -- Found FastRTPS: /opt/ros/humble/include  
+[16.543s] -- Found FastRTPS: /opt/ros/humble/include  
+[16.546s] -- Found FastRTPS: /opt/ros/humble/include  
+[16.851s] -- Found FastRTPS: /opt/ros/humble/include  
+[17.760s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[17.761s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[17.770s] -- Looking for pthread.h
+[17.772s] -- Looking for pthread.h
+[17.896s] -- Looking for pthread.h - found
+[17.897s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[17.897s] -- Looking for pthread.h - found
+[17.898s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[18.024s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[18.024s] -- Found Threads: TRUE  
+[18.026s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[18.028s] -- Found Threads: TRUE  
+[18.029s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[18.034s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[18.050s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.055s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.056s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[18.060s] -- Looking for pthread.h
+[18.064s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[18.068s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[18.069s] -- Looking for pthread.h
+[18.073s] -- Configuring done
+[18.078s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[18.081s] -- Generating done
+[18.082s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-build
+[18.086s] -- Configuring done
+[18.092s] -- Generating done
+[18.093s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-build
+[18.106s] [ 91%] [34m[1mPerforming build step for 'string_publisher'[0m
+[18.120s] [ 91%] [34m[1mPerforming build step for 'string_subscriber'[0m
+[18.146s] [ 50%] [32mBuilding C object CMakeFiles/string_publisher.dir/main.c.o[0m
+[18.157s] [ 50%] [32mBuilding C object CMakeFiles/string_subscriber.dir/main.c.o[0m
+[18.210s] [100%] [32m[1mLinking C executable string_publisher[0m
+[18.214s] [100%] [32m[1mLinking C executable string_subscriber[0m
+[18.221s] -- Looking for pthread.h - found
+[18.221s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[18.229s] -- Looking for pthread.h - found
+[18.230s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[18.353s] [100%] Built target string_subscriber
+[18.363s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[18.364s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[18.364s] -- Found Threads: TRUE  
+[18.365s] -- Found Threads: TRUE  
+[18.368s] [100%] Built target string_publisher
+[18.371s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[18.372s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[18.375s] [ 92%] [34m[1mPerforming install step for 'string_subscriber'[0m
+[18.385s] [ 92%] [34m[1mPerforming install step for 'string_publisher'[0m
+[18.399s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[18.400s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[18.408s] -- Found rclc_parameter: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/share/rclc_parameter/cmake)
+[18.410s] [35m[1mConsolidate compiler generated dependencies of target string_subscriber[0m
+[18.411s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[18.414s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[18.416s] -- Configuring done
+[18.417s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.422s] [35m[1mConsolidate compiler generated dependencies of target string_publisher[0m
+[18.423s] -- Configuring done
+[18.427s] [100%] Built target string_subscriber
+[18.428s] -- Generating done
+[18.430s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/autodiscover_agent/src/autodiscover_agent-build
+[18.430s] -- Looking for pthread.h
+[18.434s] -- Generating done
+[18.435s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-build
+[18.437s] [100%] Built target string_publisher
+[18.450s] [36mInstall the project...[0m
+[18.456s] [36mInstall the project...[0m
+[18.457s] -- Install configuration: ""
+[18.458s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/string_subscriber/string_subscriber
+[18.458s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/string_subscriber/string_subscriber" to ""
+[18.458s] [ 93%] [34m[1mPerforming build step for 'autodiscover_agent'[0m
+[18.461s] [ 93%] [34m[1mPerforming build step for 'parameter_server'[0m
+[18.468s] -- Install configuration: ""
+[18.468s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/string_publisher/string_publisher
+[18.468s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/string_publisher/string_publisher" to ""
+[18.474s] [ 94%] [34m[1mCompleted 'string_subscriber'[0m
+[18.488s] [ 94%] [34m[1mCompleted 'string_publisher'[0m
+[18.498s] [ 50%] [32mBuilding C object CMakeFiles/autodiscover_agent.dir/main.c.o[0m
+[18.505s] [ 94%] Built target string_subscriber
+[18.506s] [ 50%] [32mBuilding C object CMakeFiles/parameter_server.dir/main.c.o[0m
+[18.523s] [ 94%] Built target string_publisher
+[18.559s] [100%] [32m[1mLinking C executable autodiscover_agent[0m
+[18.568s] [100%] [32m[1mLinking C executable parameter_server[0m
+[18.598s] -- Looking for pthread.h - found
+[18.598s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[18.708s] [100%] Built target autodiscover_agent
+[18.717s] [100%] Built target parameter_server
+[18.724s] [ 94%] [34m[1mPerforming install step for 'autodiscover_agent'[0m
+[18.736s] [ 94%] [34m[1mPerforming install step for 'parameter_server'[0m
+[18.741s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[18.742s] -- Found Threads: TRUE  
+[18.749s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[18.759s] [35m[1mConsolidate compiler generated dependencies of target autodiscover_agent[0m
+[18.768s] [35m[1mConsolidate compiler generated dependencies of target parameter_server[0m
+[18.774s] [100%] Built target autodiscover_agent
+[18.782s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[18.782s] [100%] Built target parameter_server
+[18.790s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[18.796s] [36mInstall the project...[0m
+[18.797s] -- Configuring done
+[18.802s] [36mInstall the project...[0m
+[18.803s] -- Install configuration: ""
+[18.803s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/autodiscover_agent/autodiscover_agent
+[18.804s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/autodiscover_agent/autodiscover_agent" to ""
+[18.805s] -- Generating done
+[18.806s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/epoch_synchronization/src/epoch_synchronization-build
+[18.811s] -- Install configuration: ""
+[18.811s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/parameter_server/parameter_server
+[18.812s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/parameter_server/parameter_server" to ""
+[18.826s] [ 94%] [34m[1mCompleted 'autodiscover_agent'[0m
+[18.832s] [ 95%] [34m[1mCompleted 'parameter_server'[0m
+[18.833s] [ 95%] [34m[1mPerforming build step for 'epoch_synchronization'[0m
+[18.856s] [ 95%] Built target autodiscover_agent
+[18.863s] [ 95%] Built target parameter_server
+[18.877s] [ 50%] [32mBuilding C object CMakeFiles/epoch_synchronization.dir/main.c.o[0m
+[18.914s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.930s] -- Looking for pthread.h
+[18.935s] [100%] [32m[1mLinking C executable epoch_synchronization[0m
+[19.072s] -- Looking for pthread.h - found
+[19.072s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[19.081s] [100%] Built target epoch_synchronization
+[19.096s] [ 96%] [34m[1mPerforming install step for 'epoch_synchronization'[0m
+[19.129s] [35m[1mConsolidate compiler generated dependencies of target epoch_synchronization[0m
+[19.140s] [100%] Built target epoch_synchronization
+[19.159s] [36mInstall the project...[0m
+[19.166s] -- Install configuration: ""
+[19.166s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/epoch_synchronization/epoch_synchronization
+[19.167s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/epoch_synchronization/epoch_synchronization" to ""
+[19.184s] [ 97%] [34m[1mCompleted 'epoch_synchronization'[0m
+[19.212s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[19.213s] -- Found Threads: TRUE  
+[19.213s] [ 97%] Built target epoch_synchronization
+[19.218s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[19.243s] -- Found visualization_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/share/visualization_msgs/cmake)
+[19.293s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[19.297s] -- Found micro_ros_utilities: 3.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake)
+[19.301s] -- Configuring done
+[19.311s] -- Generating done
+[19.312s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/static_type_handling/src/static_type_handling-build
+[19.320s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[19.330s] -- Looking for pthread.h
+[19.333s] [ 98%] [34m[1mPerforming build step for 'static_type_handling'[0m
+[19.373s] [ 50%] [32mBuilding C object CMakeFiles/static_type_handling.dir/main.c.o[0m
+[19.442s] [100%] [32m[1mLinking C executable static_type_handling[0m
+[19.482s] -- Looking for pthread.h - found
+[19.482s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[19.603s] [100%] Built target static_type_handling
+[19.618s] [ 98%] [34m[1mPerforming install step for 'static_type_handling'[0m
+[19.631s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[19.631s] -- Found Threads: TRUE  
+[19.637s] -- Found rclc: 4.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/rclc/share/rclc/cmake)
+[19.650s] [35m[1mConsolidate compiler generated dependencies of target static_type_handling[0m
+[19.661s] [100%] Built target static_type_handling
+[19.664s] -- Found std_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/share/std_msgs/cmake)
+[19.672s] -- Found rmw_microxrcedds: 3.0.3 (/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[19.676s] -- Found micro_ros_utilities: 3.0.2 (/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake)
+[19.677s] [36mInstall the project...[0m
+[19.681s] -- Configuring done
+[19.684s] -- Install configuration: ""
+[19.684s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/static_type_handling/static_type_handling
+[19.685s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/static_type_handling/static_type_handling" to ""
+[19.689s] -- Generating done
+[19.690s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/multithread_publisher_subscriber/src/multithread_publisher_subscriber-build
+[19.703s] [ 98%] [34m[1mCompleted 'static_type_handling'[0m
+[19.715s] [ 98%] [34m[1mPerforming build step for 'multithread_publisher_subscriber'[0m
+[19.732s] [ 98%] Built target static_type_handling
+[19.754s] [ 50%] [32mBuilding C object CMakeFiles/multithread_publisher_subscriber.dir/main.c.o[0m
+[19.809s] [100%] [32m[1mLinking C executable multithread_publisher_subscriber[0m
+[19.948s] [100%] Built target multithread_publisher_subscriber
+[19.969s] [ 99%] [34m[1mPerforming install step for 'multithread_publisher_subscriber'[0m
+[20.003s] [35m[1mConsolidate compiler generated dependencies of target multithread_publisher_subscriber[0m
+[20.015s] [100%] Built target multithread_publisher_subscriber
+[20.033s] [36mInstall the project...[0m
+[20.040s] -- Install configuration: ""
+[20.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/multithread_publisher_subscriber/multithread_publisher_subscriber
+[20.040s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/multithread_publisher_subscriber/multithread_publisher_subscriber" to ""
+[20.056s] [100%] [34m[1mCompleted 'multithread_publisher_subscriber'[0m
+[20.085s] [100%] Built target multithread_publisher_subscriber
+[20.097s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc -- -j20 -l20
+[20.099s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc
+[20.104s] -- Install configuration: ""
+[20.104s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc
+[20.105s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent
+[20.105s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent/ping_uros_agent
+[20.105s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber
+[20.105s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber/configured_subscriber
+[20.106s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count
+[20.106s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count/subscription_count
+[20.106s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization
+[20.106s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization/epoch_synchronization
+[20.106s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber
+[20.106s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber/complex_msg_subscriber
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server/fibonacci_action_server
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong/ping_pong
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling/static_type_handling
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent/autodiscover_agent
+[20.107s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber/int32_subscriber
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count/publisher_count
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication/fragmented_publication
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode/int32_multinode
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client/fibonacci_action_client
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server/parameter_server
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server
+[20.108s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server/addtwoints_server
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber/string_subscriber
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer/timer
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client/addtwoints_client
+[20.109s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer
+[20.110s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer/graph_visualizer
+[20.110s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher
+[20.110s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher/configured_publisher
+[20.110s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher
+[20.110s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher/complex_msg_publisher
+[20.110s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber/multithread_publisher_subscriber
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher/int32_publisher
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher/string_publisher
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber/int32_publisher_subscriber
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription/fragmented_subscription
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/package_run_dependencies/micro_ros_demos_rclc
+[20.111s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/parent_prefix_path/micro_ros_demos_rclc
+[20.112s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.sh
+[20.112s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.dsv
+[20.112s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.sh
+[20.112s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.dsv
+[20.113s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.bash
+[20.113s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.sh
+[20.113s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.zsh
+[20.113s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.dsv
+[20.114s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.dsv
+[20.114s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/packages/micro_ros_demos_rclc
+[20.114s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig.cmake
+[20.114s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig-version.cmake
+[20.115s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.xml
+[20.117s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc

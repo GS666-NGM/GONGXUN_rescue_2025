@@ -1,0 +1,4 @@
+/root/ros_ws/src/Rescue_Car_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Mesh.idl
+/root/ros_ws/src/Rescue_Car_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/MeshTriangle.idl
+/root/ros_ws/src/Rescue_Car_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Plane.idl
+/root/ros_ws/src/Rescue_Car_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/SolidPrimitive.idl

@@ -1,0 +1,10 @@
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/uninstall.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/addtwoints_client_uninstall.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/addtwoints_client.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/test.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/edit_cache.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/rebuild_cache.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/list_install_components.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/install.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/install/local.dir
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,15 @@
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/ament_index/resource_index/package_run_dependencies/car
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/ament_index/resource_index/parent_prefix_path/car
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/environment/ament_prefix_path.sh
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/environment/ament_prefix_path.dsv
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/environment/path.sh
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/environment/path.dsv
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/local_setup.bash
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/local_setup.sh
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/local_setup.zsh
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/local_setup.dsv
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/package.dsv
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/ament_index/resource_index/packages/car
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/cmake/carConfig.cmake
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/cmake/carConfig-version.cmake
+/root/ros_ws/src/Rescue_Car_ws/install/car/share/car/package.xml

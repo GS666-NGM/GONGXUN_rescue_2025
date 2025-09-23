@@ -1,0 +1,4 @@
+/root/ros_ws/src/Rescue_Car_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl
+/root/ros_ws/src/Rescue_Car_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl
+/root/ros_ws/src/Rescue_Car_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl
+/root/ros_ws/src/Rescue_Car_ws/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl

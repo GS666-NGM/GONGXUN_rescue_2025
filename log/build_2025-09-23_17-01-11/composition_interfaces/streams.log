@@ -1,0 +1,299 @@
+[0.313s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/composition_interfaces -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces
+[0.443s] -- The C compiler identification is GNU 11.4.0
+[4.845s] -- The CXX compiler identification is GNU 11.4.0
+[8.338s] -- Detecting C compiler ABI info
+[9.568s] -- Detecting C compiler ABI info - done
+[9.588s] -- Check for working C compiler: /usr/bin/cc - skipped
+[9.588s] -- Detecting C compile features
+[9.588s] -- Detecting C compile features - done
+[9.596s] -- Detecting CXX compiler ABI info
+[10.764s] -- Detecting CXX compiler ABI info - done
+[10.785s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[10.785s] -- Detecting CXX compile features
+[10.786s] -- Detecting CXX compile features - done
+[10.802s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[11.232s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[11.631s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[11.636s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[11.660s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[12.910s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[13.021s] -- Found rcl_interfaces: 1.2.2 (/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/share/rcl_interfaces/cmake)
+[14.252s] -- Found ament_cmake_cppcheck: 0.12.14 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[14.252s] -- Found ament_cmake_cpplint: 0.12.14 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[14.258s] -- Found ament_cmake_uncrustify: 0.12.14 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[14.268s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[15.067s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[16.028s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[17.305s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[17.312s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[19.082s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[19.082s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[19.082s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[19.082s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[19.121s] -- Found PythonExtra: .so  
+[19.365s] -- Found ament_cmake_flake8: 0.12.14 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[19.374s] -- Found ament_cmake_pep257: 0.12.14 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[19.380s] -- Configuring done
+[19.475s] -- Generating done
+[19.490s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces
+[19.508s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/composition_interfaces -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces
+[19.510s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces -- -j20 -l20
+[19.594s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[20.551s] [  2%] Built target composition_interfaces__cpp
+[20.595s] [  2%] Built target ament_cmake_python_copy_composition_interfaces
+[20.615s] [  4%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[21.310s] [  6%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/composition_interfaces/srv/detail/load_node__type_support.cpp.o[0m
+[22.273s] [  8%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/composition_interfaces/srv/detail/unload_node__type_support.cpp.o[0m
+[22.764s] [ 10%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/composition_interfaces/srv/detail/list_nodes__type_support.cpp.o[0m
+[23.294s] [ 12%] [32m[1mLinking CXX shared library libcomposition_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[23.540s] [ 12%] Built target composition_interfaces__rosidl_typesupport_introspection_cpp
+[23.815s] running egg_info
+[23.816s] creating composition_interfaces.egg-info
+[23.817s] writing composition_interfaces.egg-info/PKG-INFO
+[23.818s] writing dependency_links to composition_interfaces.egg-info/dependency_links.txt
+[23.818s] writing top-level names to composition_interfaces.egg-info/top_level.txt
+[23.818s] writing manifest file 'composition_interfaces.egg-info/SOURCES.txt'
+[23.820s] reading manifest file 'composition_interfaces.egg-info/SOURCES.txt'
+[23.821s] writing manifest file 'composition_interfaces.egg-info/SOURCES.txt'
+[23.870s] [ 12%] Built target ament_cmake_python_build_composition_interfaces_egg
+[23.881s] [ 14%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[24.530s] [ 17%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/detail/dds_fastrtps/load_node__type_support.cpp.o[0m
+[25.196s] [ 19%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/detail/dds_fastrtps/unload_node__type_support.cpp.o[0m
+[25.657s] [ 21%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/detail/dds_fastrtps/list_nodes__type_support.cpp.o[0m
+[26.220s] [ 23%] [32m[1mLinking CXX shared library libcomposition_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[26.465s] [ 23%] Built target composition_interfaces__rosidl_typesupport_fastrtps_cpp
+[26.480s] [ 25%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[27.058s] [ 27%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/composition_interfaces/srv/load_node__type_support.cpp.o[0m
+[27.419s] [ 29%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/composition_interfaces/srv/unload_node__type_support.cpp.o[0m
+[27.731s] [ 31%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/composition_interfaces/srv/list_nodes__type_support.cpp.o[0m
+[28.059s] [ 34%] [32m[1mLinking CXX shared library libcomposition_interfaces__rosidl_typesupport_cpp.so[0m
+[28.241s] [ 34%] Built target composition_interfaces__rosidl_typesupport_cpp
+[28.256s] [ 36%] [34m[1mGenerating C code for ROS interfaces[0m
+[29.065s] [ 38%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_generator_c.dir/rosidl_generator_c/composition_interfaces/srv/detail/load_node__functions.c.o[0m
+[29.132s] [ 40%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_generator_c.dir/rosidl_generator_c/composition_interfaces/srv/detail/unload_node__functions.c.o[0m
+[29.205s] [ 42%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_generator_c.dir/rosidl_generator_c/composition_interfaces/srv/detail/list_nodes__functions.c.o[0m
+[29.268s] [ 44%] [32m[1mLinking C shared library libcomposition_interfaces__rosidl_generator_c.so[0m
+[29.423s] [ 44%] Built target composition_interfaces__rosidl_generator_c
+[29.438s] [ 46%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[30.086s] [ 48%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/composition_interfaces/srv/detail/load_node__type_support_c.cpp.o[0m
+[30.487s] [ 51%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/composition_interfaces/srv/detail/unload_node__type_support_c.cpp.o[0m
+[30.824s] [ 53%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/composition_interfaces/srv/detail/list_nodes__type_support_c.cpp.o[0m
+[31.148s] [ 55%] [32m[1mLinking CXX shared library libcomposition_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[31.332s] [ 55%] Built target composition_interfaces__rosidl_typesupport_fastrtps_c
+[31.343s] [ 57%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[31.805s] [ 59%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/composition_interfaces/srv/load_node__type_support.cpp.o[0m
+[31.833s] [ 61%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/composition_interfaces/srv/unload_node__type_support.cpp.o[0m
+[31.861s] [ 63%] [32mBuilding CXX object CMakeFiles/composition_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/composition_interfaces/srv/list_nodes__type_support.cpp.o[0m
+[31.895s] [ 65%] [32m[1mLinking CXX shared library libcomposition_interfaces__rosidl_typesupport_c.so[0m
+[32.040s] [ 65%] Built target composition_interfaces__rosidl_typesupport_c
+[32.053s] [ 68%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[32.588s] [ 70%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/composition_interfaces/srv/detail/load_node__type_support.c.o[0m
+[32.632s] [ 72%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/composition_interfaces/srv/detail/unload_node__type_support.c.o[0m
+[32.668s] [ 74%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/composition_interfaces/srv/detail/list_nodes__type_support.c.o[0m
+[32.712s] [ 76%] [32m[1mLinking C shared library libcomposition_interfaces__rosidl_typesupport_introspection_c.so[0m
+[32.847s] [ 76%] Built target composition_interfaces__rosidl_typesupport_introspection_c
+[32.868s] [ 76%] Built target composition_interfaces
+[32.892s] [ 78%] [34m[1mGenerating Python code for ROS interfaces[0m
+[33.772s] [ 78%] Built target composition_interfaces__py
+[33.791s] [ 80%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_generator_py.dir/rosidl_generator_py/composition_interfaces/srv/_load_node_s.c.o[0m
+[33.918s] [ 82%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_generator_py.dir/rosidl_generator_py/composition_interfaces/srv/_unload_node_s.c.o[0m
+[34.014s] [ 85%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_generator_py.dir/rosidl_generator_py/composition_interfaces/srv/_list_nodes_s.c.o[0m
+[34.120s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/composition_interfaces/libcomposition_interfaces__rosidl_generator_py.so[0m
+[34.248s] [ 87%] Built target composition_interfaces__rosidl_generator_py
+[34.268s] [ 89%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[34.366s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/composition_interfaces/composition_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[34.502s] [ 91%] Built target composition_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[34.525s] [ 93%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[34.619s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/composition_interfaces/composition_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[34.751s] [ 95%] Built target composition_interfaces__rosidl_typesupport_c__pyext
+[34.771s] [ 97%] [32mBuilding C object CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[34.874s] [100%] [32m[1mLinking C shared library rosidl_generator_py/composition_interfaces/composition_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[35.003s] [100%] Built target composition_interfaces__rosidl_typesupport_introspection_c__pyext
+[35.013s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces -- -j20 -l20
+[35.015s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces
+[35.023s] -- Install configuration: ""
+[35.024s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/ament_index/resource_index/rosidl_interfaces/composition_interfaces
+[35.024s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+[35.024s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+[35.025s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/list_nodes.h
+[35.025s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/load_node.h
+[35.025s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+[35.025s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__functions.c
+[35.026s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__functions.c
+[35.026s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__struct.h
+[35.026s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__functions.c
+[35.026s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__functions.h
+[35.027s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__functions.h
+[35.027s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.h
+[35.027s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.h
+[35.027s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.h
+[35.027s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__struct.h
+[35.028s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__functions.h
+[35.028s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__struct.h
+[35.028s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/unload_node.h
+[35.028s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+[35.028s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_generator_c__visibility_control.h
+[35.029s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/library_path.sh
+[35.029s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/library_path.dsv
+[35.029s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_generator_c.so
+[35.029s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_generator_c.so" to ""
+[35.029s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+[35.029s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+[35.029s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+[35.029s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_fastrtps_c.h
+[35.029s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_fastrtps_c.h
+[35.029s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_fastrtps_c.h
+[35.030s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+[35.030s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[35.030s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_fastrtps_c.so
+[35.030s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[35.030s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+[35.031s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+[35.031s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+[35.031s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_introspection_c.h
+[35.031s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.c
+[35.031s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.c
+[35.032s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.c
+[35.032s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_introspection_c.h
+[35.032s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_introspection_c.h
+[35.032s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+[35.033s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[35.033s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_introspection_c.so
+[35.033s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[35.033s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_c.so
+[35.033s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_c.so" to ""
+[35.034s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+[35.034s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+[35.034s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/list_nodes.hpp
+[35.034s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/load_node.hpp
+[35.034s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+[35.034s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__struct.hpp
+[35.035s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__builder.hpp
+[35.035s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__traits.hpp
+[35.035s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.hpp
+[35.035s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__traits.hpp
+[35.035s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__builder.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__builder.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__struct.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__traits.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__struct.hpp
+[35.036s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/unload_node.hpp
+[35.037s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[35.037s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+[35.037s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+[35.037s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_fastrtps_cpp.hpp
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/dds_fastrtps
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_fastrtps_cpp.hpp
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_fastrtps_cpp.hpp
+[35.037s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[35.037s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[35.038s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[35.038s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+[35.038s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+[35.038s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+[35.038s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.cpp
+[35.038s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_introspection_cpp.hpp
+[35.038s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_introspection_cpp.hpp
+[35.038s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.cpp
+[35.038s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_introspection_cpp.hpp
+[35.038s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.cpp
+[35.039s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_introspection_cpp.so
+[35.039s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[35.039s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_cpp.so
+[35.039s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_cpp.so" to ""
+[35.039s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/pythonpath.sh
+[35.039s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/pythonpath.dsv
+[35.039s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.2-py3.10.egg-info
+[35.039s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.2-py3.10.egg-info/dependency_links.txt
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.2-py3.10.egg-info/SOURCES.txt
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.2-py3.10.egg-info/PKG-INFO
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.2-py3.10.egg-info/top_level.txt
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/libcomposition_interfaces__rosidl_generator_py.so
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_list_nodes_s.c
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_unload_node_s.c
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_load_node_s.c
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/__init__.py
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_unload_node.py
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_load_node.py
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_list_nodes.py
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/__init__.py
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[35.040s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_c.c
+[35.074s] Listing '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces'...
+[35.074s] Compiling '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/__init__.py'...
+[35.074s] Listing '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv'...
+[35.074s] Compiling '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/__init__.py'...
+[35.074s] Compiling '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_list_nodes.py'...
+[35.074s] Compiling '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_load_node.py'...
+[35.074s] Compiling '/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_unload_node.py'...
+[35.079s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[35.079s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[35.080s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[35.080s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.080s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_generator_py.so
+[35.081s] -- Set runtime path of "/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_generator_py.so" to ""
+[35.081s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode.idl
+[35.081s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes.idl
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode.idl
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode.srv
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode_Request.msg
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode_Response.msg
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes.srv
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes_Request.msg
+[35.082s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes_Response.msg
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode.srv
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode_Request.msg
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode_Response.msg
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/ament_index/resource_index/package_run_dependencies/composition_interfaces
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/ament_index/resource_index/parent_prefix_path/composition_interfaces
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/ament_prefix_path.sh
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/ament_prefix_path.dsv
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/path.sh
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/environment/path.dsv
+[35.083s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/local_setup.bash
+[35.084s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/local_setup.sh
+[35.084s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/local_setup.zsh
+[35.084s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/local_setup.dsv
+[35.084s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/package.dsv
+[35.085s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/ament_index/resource_index/packages/composition_interfaces
+[35.085s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_cExport.cmake
+[35.085s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_cExport-noconfig.cmake
+[35.085s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cExport.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_cppExport.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[35.086s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cppExport.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_pyExport.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/rosidl_cmake-extras.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[35.087s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[35.088s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[35.088s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfacesConfig.cmake
+[35.089s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfacesConfig-version.cmake
+[35.089s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/share/composition_interfaces/package.xml
+[35.090s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces' returned '0': AMENT_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/composition_interfaces

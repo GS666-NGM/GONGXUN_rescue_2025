@@ -1,0 +1,22 @@
+{
+  "package_name": "rcl_interfaces",
+  "non_idl_tuples": [
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/FloatingPointRange.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/IntegerRange.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/ListParametersResult.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/Log.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterDescriptor.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterEventDescriptors.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterEvent.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/Parameter.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterType.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterValue.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:msg/SetParametersResult.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:srv/DescribeParameters.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:srv/GetParameters.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:srv/GetParameterTypes.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:srv/ListParameters.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:srv/SetParametersAtomically.srv",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/rcl_interfaces/rcl_interfaces:srv/SetParameters.srv"
+  ]
+}

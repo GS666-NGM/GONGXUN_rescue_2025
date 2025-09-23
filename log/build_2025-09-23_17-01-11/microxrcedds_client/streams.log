@@ -1,0 +1,130 @@
+[0.069s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/microcdr /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client -DUCLIENT_ISOLATED_INSTALL=OFF -DUCLIENT_SUPERBUILD=OFF -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client
+[0.217s] -- The C compiler identification is GNU 11.4.0
+[0.612s] -- Detecting C compiler ABI info
+[0.744s] -- Detecting C compiler ABI info - done
+[0.751s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.751s] -- Detecting C compile features
+[0.752s] -- Detecting C compile features - done
+[0.752s] -- Setting build type to 'Release' as none was specified.
+[0.757s] -- Looking for pthread.h
+[0.956s] -- Looking for pthread.h - found
+[0.957s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.190s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.191s] -- Found Threads: TRUE  
+[1.197s] -- Configuring done
+[1.211s] -- Generating done
+[1.213s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client
+[1.220s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client' returned '0': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/microcdr /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-XRCE-DDS-Client -DUCLIENT_ISOLATED_INSTALL=OFF -DUCLIENT_SUPERBUILD=OFF -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client
+[1.220s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/microcdr /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client -- -j20 -l20
+[1.295s] [  2%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/input_best_effort_stream.c.o[0m
+[1.295s] [  5%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/input_reliable_stream.c.o[0m
+[1.295s] [  8%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/output_best_effort_stream.c.o[0m
+[1.295s] [ 11%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/output_reliable_stream.c.o[0m
+[1.299s] [ 14%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/stream_id.c.o[0m
+[1.303s] [ 17%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/seq_num.c.o[0m
+[1.304s] [ 20%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/session.c.o[0m
+[1.305s] [ 23%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/stream/stream_storage.c.o[0m
+[1.305s] [ 26%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/session_info.c.o[0m
+[1.351s] [ 29%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/submessage.c.o[0m
+[1.356s] [ 32%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/object_id.c.o[0m
+[1.366s] [ 35%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/serialization/xrce_subheader.c.o[0m
+[1.370s] [ 38%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/serialization/xrce_header.c.o[0m
+[1.370s] [ 41%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/util/time.c.o[0m
+[1.387s] [ 44%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/serialization/xrce_types.c.o[0m
+[1.422s] [ 47%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/util/ping.c.o[0m
+[1.423s] [ 50%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/create_entities_ref.c.o[0m
+[1.424s] [ 52%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/create_entities_xml.c.o[0m
+[1.431s] [ 55%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/common_create_entities.c.o[0m
+[1.468s] [ 58%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/create_entities_bin.c.o[0m
+[1.470s] [ 61%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/write_access.c.o[0m
+[1.475s] [ 64%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/core/session/read_access.c.o[0m
+[1.483s] [ 73%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/stream_framing/stream_framing_protocol.c.o[0m
+[1.490s] [ 76%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/ip/udp/udp_transport_posix.c.o[0m
+[1.490s] [ 76%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/serial/serial_transport.c.o[0m
+[1.500s] [ 79%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/serial/serial_transport_posix.c.o[0m
+[1.501s] [ 82%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/ip/tcp/tcp_transport.c.o[0m
+[1.501s] [ 70%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/ip/udp/udp_transport.c.o[0m
+[1.506s] [ 85%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/ip/ip_posix.c.o[0m
+[1.515s] [ 88%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/ip/tcp/tcp_transport_posix.c.o[0m
+[1.528s] [ 91%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/discovery/discovery.c.o[0m
+[1.552s] [ 94%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.o[0m
+[1.553s] [ 97%] [32mBuilding C object CMakeFiles/microxrcedds_client.dir/src/c/profile/discovery/transport/udp_transport_datagram_posix.c.o[0m
+[2.210s] [100%] [32m[1mLinking C static library libmicroxrcedds_client.a[0m
+[2.435s] [100%] Built target microxrcedds_client
+[2.483s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client' returned '0': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/microcdr /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client -- -j20 -l20
+[2.484s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/microcdr /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client
+[2.500s] -- Install configuration: "Release"
+[2.512s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/lib/libmicroxrcedds_client.a
+[2.512s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client
+[2.512s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/transport.h
+[2.512s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/util
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/util/time.h
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/util/ping.h
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/client.h
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/visibility.h
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/type
+[2.513s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/type/xrce_types.h
+[2.516s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/communication
+[2.516s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/communication/communication.h
+[2.516s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session
+[2.516s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/write_access.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/input_best_effort_stream.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/output_best_effort_stream.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/stream_id.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/input_reliable_stream.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/reliable_stream.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/output_reliable_stream.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/seq_num.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/stream/stream_storage.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/session_info.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/create_entities_ref.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/time_sync.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/object_id.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/common_create_entities.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/read_access.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/create_entities_bin.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/session.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/core/session/create_entities_xml.h
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/discovery
+[2.517s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/discovery/discovery.h
+[2.524s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport
+[2.524s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/serial
+[2.524s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/serial/serial_transport_platform.h
+[2.524s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/serial/serial_transport.h
+[2.524s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/serial/serial_transport_rtems_bsd_net.h
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/serial/serial_transport_posix.h
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/stream_framing
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/stream_framing/stream_framing_protocol.h
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/can
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/can/can_transport.h
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/can/can_transport_posix.h
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/custom
+[2.525s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/custom/custom_transport.h
+[2.532s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip
+[2.532s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/ip.h
+[2.532s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp/udp_transport_windows.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp/udp_transport_freertos_plus_tcp.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp/udp_transport_rtems_bsd_net.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp/udp_transport_posix_nopoll.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp/udp_transport.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/udp/udp_transport_posix.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp/tcp_transport.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp/tcp_transport_posix.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp/tcp_transport_windows.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp/tcp_transport_posix_nopoll.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp/tcp_transport_freertos_plus_tcp.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/transport/ip/tcp/tcp_transport_rtems_bsd_net.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/multithread
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/profile/multithread/multithread.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/defines.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/include/uxr/client/config.h
+[2.533s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/share/microxrcedds_client/cmake/microxrcedds_clientTargets.cmake
+[2.544s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/share/microxrcedds_client/cmake/microxrcedds_clientTargets-release.cmake
+[2.545s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/share/microxrcedds_client/cmake/microxrcedds_clientConfig.cmake
+[2.545s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client/share/microxrcedds_client/cmake/microxrcedds_clientConfigVersion.cmake
+[2.549s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client' returned '0': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/microcdr /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/microxrcedds_client

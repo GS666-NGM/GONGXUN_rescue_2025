@@ -1,0 +1,52 @@
+[0.027s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/microcdr': /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-CDR -DUCDR_ISOLATED_INSTALL=OFF -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/microcdr
+[0.058s] -- Setting build type to 'Release' as none was specified.
+[0.214s] -- The C compiler identification is GNU 11.4.0
+[0.705s] -- Detecting C compiler ABI info
+[0.853s] -- Detecting C compiler ABI info - done
+[0.858s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.859s] -- Detecting C compile features
+[0.860s] -- Detecting C compile features - done
+[0.999s] -- The CXX compiler identification is GNU 11.4.0
+[1.347s] -- Detecting CXX compiler ABI info
+[1.505s] -- Detecting CXX compiler ABI info - done
+[1.510s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.510s] -- Detecting CXX compile features
+[1.510s] -- Detecting CXX compile features - done
+[1.516s] -- Configuring done
+[1.518s] -- Generating done
+[1.519s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/microcdr
+[1.521s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/microcdr' returned '0': /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/eProsima/Micro-CDR -DUCDR_ISOLATED_INSTALL=OFF -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/microcdr
+[1.524s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/microcdr': /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/microcdr -- -j20 -l20
+[1.568s] [ 12%] [34m[1mCreating directories for 'ucdr'[0m
+[1.624s] [ 25%] [34m[1mNo download step for 'ucdr'[0m
+[1.642s] [ 37%] [34m[1mNo update step for 'ucdr'[0m
+[1.660s] [ 50%] [34m[1mNo patch step for 'ucdr'[0m
+[1.679s] [ 62%] [34m[1mPerforming configure step for 'ucdr'[0m
+[1.687s] loading initial cache file /root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/tmp/ucdr-cache-Release.cmake
+[1.696s] -- Configuring done
+[1.698s] -- Generating done
+[1.700s] -- Build files have been written to: /root/ros_ws/src/Rescue_Car_ws/build/microcdr
+[1.713s] [ 75%] [34m[1mPerforming build step for 'ucdr'[0m
+[1.743s] [ 33%] [32mBuilding C object CMakeFiles/microcdr.dir/src/c/common.c.o[0m
+[1.743s] [ 33%] [32mBuilding C object CMakeFiles/microcdr.dir/src/c/types/basic.c.o[0m
+[1.744s] [ 50%] [32mBuilding C object CMakeFiles/microcdr.dir/src/c/types/sequence.c.o[0m
+[1.744s] [ 66%] [32mBuilding C object CMakeFiles/microcdr.dir/src/c/types/string.c.o[0m
+[1.745s] [ 83%] [32mBuilding C object CMakeFiles/microcdr.dir/src/c/types/array.c.o[0m
+[2.154s] [100%] [32m[1mLinking C static library libmicrocdr.a[0m
+[2.217s] [100%] Built target microcdr
+[2.242s] [34m[1mNo install step for 'ucdr'[0m
+[2.265s] [34m[1mCompleted 'ucdr'[0m
+[2.289s] Built target ucdr
+[2.302s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/microcdr' returned '0': /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/microcdr -- -j20 -l20
+[2.303s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/microcdr': /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/microcdr
+[2.309s] -- Install configuration: "Release"
+[2.310s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/lib/libmicrocdr.a
+[2.310s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr
+[2.311s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/visibility.h
+[2.311s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/microcdr.h
+[2.311s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/include/ucdr/config.h
+[2.312s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrTargets.cmake
+[2.312s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrTargets-release.cmake
+[2.312s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrConfig.cmake
+[2.312s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/microcdr/share/microcdr/cmake/microcdrConfigVersion.cmake
+[2.315s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/microcdr' returned '0': /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/microcdr

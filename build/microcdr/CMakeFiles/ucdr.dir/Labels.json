@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/CMakeFiles/ucdr"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/CMakeFiles/ucdr.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/CMakeFiles/ucdr-complete.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-build.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-configure.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-download.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-install.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-mkdir.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-patch.rule"
+		},
+		{
+			"file" : "/root/ros_ws/src/Rescue_Car_ws/build/microcdr/ucdr-prefix/src/ucdr-stamp/ucdr-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ucdr"
+		],
+		"name" : "ucdr"
+	}
+}

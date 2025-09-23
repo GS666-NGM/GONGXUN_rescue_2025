@@ -1,0 +1,6 @@
+Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup
+Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/ros_ws/src/Rescue_Car_ws/src/microros/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup
+Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup -- -j20 -l20
+Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup -- -j20 -l20
+Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup
+Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_setup

@@ -1,0 +1,9 @@
+{
+  "package_name": "trajectory_msgs",
+  "non_idl_tuples": [
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/trajectory_msgs:msg/JointTrajectory.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/trajectory_msgs:msg/JointTrajectoryPoint.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/trajectory_msgs:msg/MultiDOFJointTrajectory.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/trajectory_msgs:msg/MultiDOFJointTrajectoryPoint.msg"
+  ]
+}

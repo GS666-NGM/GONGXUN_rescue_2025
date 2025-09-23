@@ -1,0 +1,39 @@
+[0.037s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/car -- -j20 -l20
+[0.067s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.258s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[0.497s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.503s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.520s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.540s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.553s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.582s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.582s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[7.226s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.257s] -- Found geometry_msgs: 4.9.0 (/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+[7.267s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.322s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.322s] -- Configured cppcheck include dirs: 
+[7.322s] -- Configured cppcheck exclude dirs and/or files: 
+[7.323s] -- Added test 'flake8' to check Python code syntax and style conventions
+[7.323s] -- Added test 'lint_cmake' to check CMake code style
+[7.323s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[7.323s] -- Added test 'uncrustify' to check C / C++ code style
+[7.323s] -- Configured uncrustify additional arguments: 
+[7.323s] -- Added test 'xmllint' to check XML markup files
+[7.324s] -- Configuring done
+[7.326s] [31mCMake Error at CMakeLists.txt:14 (add_executable):
+[7.326s]   Cannot find source file:
+[7.326s] 
+[7.326s]     src/control_sub.cpp
+[7.326s] 
+[7.326s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[7.326s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[7.326s] 
+[7.326s] [0m
+[7.327s] [31mCMake Error at CMakeLists.txt:14 (add_executable):
+[7.327s]   No SOURCES given to target: control_pub
+[7.327s] 
+[7.327s] [0m
+[7.327s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[7.333s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[7.335s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/car' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/car -- -j20 -l20

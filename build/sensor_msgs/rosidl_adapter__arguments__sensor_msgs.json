@@ -1,0 +1,33 @@
+{
+  "package_name": "sensor_msgs",
+  "non_idl_tuples": [
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/BatteryState.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/CameraInfo.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/ChannelFloat32.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/CompressedImage.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/FluidPressure.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/Illuminance.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/Image.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/Imu.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/JointState.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/Joy.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/JoyFeedback.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/JoyFeedbackArray.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/LaserEcho.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/LaserScan.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/MagneticField.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/MultiDOFJointState.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/MultiEchoLaserScan.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/NavSatFix.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/NavSatStatus.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/PointCloud.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/PointCloud2.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/PointField.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/Range.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/RegionOfInterest.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/RelativeHumidity.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/Temperature.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:msg/TimeReference.msg",
+    "/root/ros_ws/src/Rescue_Car_ws/src/microros/src/ros2/common_interfaces/sensor_msgs:srv/SetCameraInfo.srv"
+  ]
+}

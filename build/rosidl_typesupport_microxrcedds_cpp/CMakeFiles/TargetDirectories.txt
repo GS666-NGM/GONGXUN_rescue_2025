@@ -1,0 +1,12 @@
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/uninstall.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/rosidl_typesupport_microxrcedds_cpp_uninstall.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/ament_cmake_python_copy_rosidl_typesupport_microxrcedds_cpp.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/ament_cmake_python_build_rosidl_typesupport_microxrcedds_cpp_egg.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/rosidl_typesupport_microxrcedds_cpp.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/test.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/edit_cache.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/rebuild_cache.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/list_install_components.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/install.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/install/local.dir
+/root/ros_ws/src/Rescue_Car_ws/build/rosidl_typesupport_microxrcedds_cpp/CMakeFiles/install/strip.dir

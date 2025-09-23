@@ -1,0 +1,13 @@
+# Target labels
+ int32_publisher
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_publisher
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_publisher.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_publisher-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-stamp/int32_publisher-update.rule

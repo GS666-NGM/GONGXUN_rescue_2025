@@ -1,0 +1,13 @@
+# Target labels
+ string_subscriber
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/string_subscriber
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/string_subscriber.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/CMakeFiles/string_subscriber-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-stamp/string_subscriber-update.rule

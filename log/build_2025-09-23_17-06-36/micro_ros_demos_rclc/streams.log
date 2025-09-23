@@ -1,0 +1,318 @@
+[1.375s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc:/root/ros_ws/src/Rescue_Car_ws/install/common_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs:/root/ros_ws/src/Rescue_Car_ws/install/car:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs/lib:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent/lib:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc -- -j20 -l20
+[1.440s] [  0%] [34m[1mPerforming build step for 'fibonacci_action_client'[0m
+[1.440s] [  1%] [34m[1mPerforming build step for 'int32_subscriber'[0m
+[1.440s] [  1%] [34m[1mPerforming build step for 'int32_publisher'[0m
+[1.442s] [  2%] [34m[1mPerforming build step for 'fibonacci_action_server'[0m
+[1.442s] [  2%] [34m[1mPerforming build step for 'subscription_count'[0m
+[1.442s] [  2%] [34m[1mPerforming build step for 'addtwoints_server'[0m
+[1.442s] [  2%] [34m[1mPerforming build step for 'addtwoints_client'[0m
+[1.442s] [  3%] [34m[1mPerforming build step for 'graph_visualizer'[0m
+[1.444s] [  4%] [34m[1mPerforming build step for 'configured_publisher'[0m
+[1.444s] [  4%] [34m[1mPerforming build step for 'int32_publisher_subscriber'[0m
+[1.444s] [  4%] [34m[1mPerforming build step for 'publisher_count'[0m
+[1.444s] [  5%] [34m[1mPerforming build step for 'ping_pong'[0m
+[1.446s] [  6%] [34m[1mPerforming build step for 'int32_multinode'[0m
+[1.448s] [  7%] [34m[1mPerforming build step for 'configured_subscriber'[0m
+[1.451s] [  7%] [34m[1mPerforming build step for 'fragmented_publication'[0m
+[1.453s] [  8%] [34m[1mPerforming build step for 'complex_msg_subscriber'[0m
+[1.453s] [  8%] [34m[1mPerforming build step for 'ping_uros_agent'[0m
+[1.453s] [  8%] [34m[1mPerforming build step for 'fragmented_subscription'[0m
+[1.454s] [  9%] [34m[1mPerforming build step for 'timer'[0m
+[1.457s] [ 10%] [34m[1mPerforming build step for 'complex_msg_publisher'[0m
+[1.516s] [100%] Built target subscription_count
+[1.517s] [100%] Built target int32_multinode
+[1.517s] [100%] Built target fibonacci_action_server
+[1.525s] [100%] Built target fibonacci_action_client
+[1.525s] [100%] Built target int32_publisher
+[1.525s] [100%] Built target addtwoints_server
+[1.532s] [100%] Built target configured_subscriber
+[1.537s] [100%] Built target fragmented_publication
+[1.537s] [100%] Built target int32_subscriber
+[1.537s] [100%] Built target ping_uros_agent
+[1.537s] [100%] Built target int32_publisher_subscriber
+[1.538s] [100%] Built target ping_pong
+[1.543s] [100%] Built target fragmented_subscription
+[1.543s] [100%] Built target complex_msg_publisher
+[1.543s] [100%] Built target graph_visualizer
+[1.546s] [ 10%] [34m[1mPerforming install step for 'subscription_count'[0m
+[1.546s] [100%] Built target addtwoints_client
+[1.546s] [100%] Built target timer
+[1.546s] [100%] Built target publisher_count
+[1.552s] [ 11%] [34m[1mPerforming install step for 'addtwoints_server'[0m
+[1.552s] [100%] Built target configured_publisher
+[1.552s] [ 11%] [34m[1mPerforming install step for 'int32_multinode'[0m
+[1.556s] [ 11%] [34m[1mPerforming install step for 'fibonacci_action_server'[0m
+[1.556s] [ 11%] [34m[1mPerforming install step for 'fibonacci_action_client'[0m
+[1.561s] [100%] Built target complex_msg_subscriber
+[1.561s] [ 12%] [34m[1mPerforming install step for 'int32_publisher'[0m
+[1.562s] [ 12%] [34m[1mPerforming install step for 'int32_publisher_subscriber'[0m
+[1.566s] [ 13%] [34m[1mPerforming install step for 'ping_uros_agent'[0m
+[1.566s] [ 14%] [34m[1mPerforming install step for 'fragmented_publication'[0m
+[1.567s] [ 14%] [34m[1mPerforming install step for 'int32_subscriber'[0m
+[1.568s] [ 14%] [34m[1mPerforming install step for 'configured_subscriber'[0m
+[1.580s] [ 15%] [34m[1mPerforming install step for 'fragmented_subscription'[0m
+[1.580s] [ 15%] [34m[1mPerforming install step for 'ping_pong'[0m
+[1.580s] [ 16%] [34m[1mPerforming install step for 'complex_msg_publisher'[0m
+[1.580s] [ 16%] [34m[1mPerforming install step for 'graph_visualizer'[0m
+[1.580s] [ 17%] [34m[1mPerforming install step for 'publisher_count'[0m
+[1.589s] [ 17%] [34m[1mPerforming install step for 'configured_publisher'[0m
+[1.589s] [ 18%] [34m[1mPerforming install step for 'addtwoints_client'[0m
+[1.591s] [ 18%] [34m[1mPerforming install step for 'timer'[0m
+[1.598s] [ 19%] [34m[1mPerforming install step for 'complex_msg_subscriber'[0m
+[1.624s] [100%] Built target int32_multinode
+[1.627s] [100%] Built target fibonacci_action_server
+[1.632s] [100%] Built target ping_uros_agent
+[1.632s] [100%] Built target int32_publisher
+[1.637s] [100%] Built target addtwoints_server
+[1.637s] [100%] Built target subscription_count
+[1.637s] [100%] Built target configured_subscriber
+[1.640s] [100%] Built target fibonacci_action_client
+[1.642s] [100%] Built target int32_subscriber
+[1.642s] [100%] Built target int32_publisher_subscriber
+[1.643s] [100%] Built target fragmented_publication
+[1.653s] [36mInstall the project...[0m
+[1.653s] [100%] Built target addtwoints_client
+[1.653s] [100%] Built target ping_pong
+[1.655s] [100%] Built target graph_visualizer
+[1.658s] [100%] Built target configured_publisher
+[1.658s] [36mInstall the project...[0m
+[1.660s] [100%] Built target complex_msg_publisher
+[1.663s] [100%] Built target publisher_count
+[1.663s] [36mInstall the project...[0m
+[1.663s] [36mInstall the project...[0m
+[1.663s] [36mInstall the project...[0m
+[1.669s] -- Install configuration: ""
+[1.669s] [36mInstall the project...[0m
+[1.669s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_server/fibonacci_action_server
+[1.669s] [36mInstall the project...[0m
+[1.669s] [36mInstall the project...[0m
+[1.670s] [36mInstall the project...[0m
+[1.670s] [100%] Built target timer
+[1.673s] -- Install configuration: ""
+[1.673s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/configured_subscriber/configured_subscriber
+[1.678s] -- Install configuration: ""
+[1.678s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_multinode/int32_multinode
+[1.679s] [36mInstall the project...[0m
+[1.679s] [100%] Built target complex_msg_subscriber
+[1.679s] -- Install configuration: ""
+[1.679s] -- Install configuration: ""
+[1.679s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent
+[1.679s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_client/fibonacci_action_client
+[1.681s] -- Install configuration: ""
+[1.682s] [36mInstall the project...[0m
+[1.682s] -- Install configuration: ""
+[1.682s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher/int32_publisher
+[1.683s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_server/addtwoints_server
+[1.683s] -- Install configuration: ""
+[1.683s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher_subscriber/int32_publisher_subscriber
+[1.684s] [100%] Built target fragmented_subscription
+[1.690s] -- Install configuration: ""
+[1.690s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/subscription_count/subscription_count
+[1.690s] -- Install configuration: ""
+[1.690s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/int32_subscriber/int32_subscriber
+[1.690s] [36mInstall the project...[0m
+[1.692s] [36mInstall the project...[0m
+[1.692s] [36mInstall the project...[0m
+[1.693s] [ 19%] [34m[1mCompleted 'fibonacci_action_server'[0m
+[1.694s] [36mInstall the project...[0m
+[1.694s] [36mInstall the project...[0m
+[1.694s] -- Install configuration: ""
+[1.694s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fragmented_publication/fragmented_publication
+[1.699s] [ 19%] [34m[1mCompleted 'int32_multinode'[0m
+[1.705s] [36mInstall the project...[0m
+[1.705s] [36mInstall the project...[0m
+[1.705s] -- Install configuration: ""
+[1.706s] -- Install configuration: ""
+[1.706s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/ping_pong/ping_pong
+[1.706s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_client/addtwoints_client
+[1.708s] [ 19%] [34m[1mCompleted 'ping_uros_agent'[0m
+[1.708s] -- Install configuration: ""
+[1.708s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/configured_publisher/configured_publisher
+[1.708s] -- Install configuration: ""
+[1.708s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/publisher_count/publisher_count
+[1.708s] [ 19%] [34m[1mCompleted 'configured_subscriber'[0m
+[1.712s] [ 20%] [34m[1mCompleted 'int32_publisher'[0m
+[1.712s] [36mInstall the project...[0m
+[1.714s] [ 20%] [34m[1mCompleted 'int32_subscriber'[0m
+[1.717s] -- Install configuration: ""
+[1.717s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_publisher/complex_msg_publisher
+[1.717s] [ 21%] [34m[1mCompleted 'fibonacci_action_client'[0m
+[1.717s] [36mInstall the project...[0m
+[1.717s] -- Install configuration: ""
+[1.718s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/graph_visualizer/graph_visualizer
+[1.719s] [ 22%] [34m[1mCompleted 'int32_publisher_subscriber'[0m
+[1.726s] -- Install configuration: ""
+[1.727s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/timer/timer
+[1.727s] [ 22%] [34m[1mCompleted 'fragmented_publication'[0m
+[1.727s] -- Install configuration: ""
+[1.727s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber
+[1.727s] [ 23%] [34m[1mCompleted 'addtwoints_server'[0m
+[1.731s] [ 23%] [34m[1mCompleted 'configured_publisher'[0m
+[1.731s] -- Install configuration: ""
+[1.732s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/fragmented_subscription/fragmented_subscription
+[1.734s] [ 24%] [34m[1mCompleted 'subscription_count'[0m
+[1.735s] [ 24%] [34m[1mCompleted 'ping_pong'[0m
+[1.735s] [ 24%] [34m[1mCompleted 'addtwoints_client'[0m
+[1.740s] [ 25%] [34m[1mCompleted 'publisher_count'[0m
+[1.745s] [ 25%] [34m[1mCompleted 'graph_visualizer'[0m
+[1.749s] [ 27%] Built target int32_multinode
+[1.753s] [ 28%] Built target ping_uros_agent
+[1.753s] [ 28%] [34m[1mCompleted 'timer'[0m
+[1.755s] [ 31%] Built target fibonacci_action_server
+[1.756s] [ 31%] [34m[1mCompleted 'complex_msg_publisher'[0m
+[1.761s] [ 33%] Built target int32_publisher
+[1.761s] [ 36%] Built target configured_subscriber
+[1.761s] [ 36%] [34m[1mCompleted 'complex_msg_subscriber'[0m
+[1.768s] [ 37%] [34m[1mCompleted 'fragmented_subscription'[0m
+[1.769s] [ 39%] Built target addtwoints_server
+[1.774s] [ 42%] Built target configured_publisher
+[1.775s] [ 44%] Built target fragmented_publication
+[1.778s] [ 47%] Built target fibonacci_action_client
+[1.779s] [ 49%] Built target addtwoints_client
+[1.783s] [ 52%] Built target int32_publisher_subscriber
+[1.784s] [ 53%] [34m[1mPerforming build step for 'string_publisher'[0m
+[1.784s] [ 53%] [34m[1mPerforming build step for 'string_subscriber'[0m
+[1.787s] [ 56%] Built target ping_pong
+[1.788s] [ 59%] Built target subscription_count
+[1.790s] [ 61%] Built target int32_subscriber
+[1.793s] [ 63%] Built target publisher_count
+[1.793s] [ 64%] [34m[1mPerforming build step for 'autodiscover_agent'[0m
+[1.797s] [ 67%] Built target graph_visualizer
+[1.798s] [ 70%] Built target timer
+[1.799s] [ 71%] [34m[1mPerforming build step for 'static_type_handling'[0m
+[1.801s] [ 71%] [34m[1mPerforming build step for 'epoch_synchronization'[0m
+[1.801s] [ 72%] Built target complex_msg_publisher
+[1.805s] [ 74%] Built target fragmented_subscription
+[1.805s] [ 74%] [34m[1mPerforming build step for 'multithread_publisher_subscriber'[0m
+[1.806s] [ 76%] Built target complex_msg_subscriber
+[1.807s] [ 76%] [34m[1mPerforming build step for 'parameter_server'[0m
+[1.839s] [100%] Built target string_subscriber
+[1.846s] [100%] Built target autodiscover_agent
+[1.848s] [100%] Built target string_publisher
+[1.853s] [100%] Built target static_type_handling
+[1.855s] [100%] Built target epoch_synchronization
+[1.858s] [ 77%] [34m[1mPerforming install step for 'string_subscriber'[0m
+[1.861s] [100%] Built target multithread_publisher_subscriber
+[1.868s] [ 77%] [34m[1mPerforming install step for 'string_publisher'[0m
+[1.868s] [ 77%] [34m[1mPerforming install step for 'autodiscover_agent'[0m
+[1.871s] [100%] Built target parameter_server
+[1.875s] [ 78%] [34m[1mPerforming install step for 'epoch_synchronization'[0m
+[1.876s] [ 78%] [34m[1mPerforming install step for 'static_type_handling'[0m
+[1.878s] [ 79%] [34m[1mPerforming install step for 'multithread_publisher_subscriber'[0m
+[1.894s] [ 79%] [34m[1mPerforming install step for 'parameter_server'[0m
+[1.914s] [100%] Built target autodiscover_agent
+[1.919s] [100%] Built target string_subscriber
+[1.921s] [100%] Built target string_publisher
+[1.926s] [100%] Built target multithread_publisher_subscriber
+[1.926s] [100%] Built target epoch_synchronization
+[1.930s] [100%] Built target static_type_handling
+[1.938s] [36mInstall the project...[0m
+[1.940s] [100%] Built target parameter_server
+[1.941s] [36mInstall the project...[0m
+[1.943s] [36mInstall the project...[0m
+[1.947s] -- Install configuration: ""
+[1.947s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/string_subscriber/string_subscriber
+[1.949s] [36mInstall the project...[0m
+[1.950s] [36mInstall the project...[0m
+[1.951s] [36mInstall the project...[0m
+[1.952s] -- Install configuration: ""
+[1.952s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/string_publisher/string_publisher
+[1.953s] -- Install configuration: ""
+[1.953s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/autodiscover_agent/autodiscover_agent
+[1.959s] [36mInstall the project...[0m
+[1.960s] -- Install configuration: ""
+[1.960s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/multithread_publisher_subscriber/multithread_publisher_subscriber
+[1.960s] -- Install configuration: ""
+[1.961s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/epoch_synchronization/epoch_synchronization
+[1.963s] -- Install configuration: ""
+[1.964s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/static_type_handling/static_type_handling
+[1.966s] [ 80%] [34m[1mCompleted 'string_subscriber'[0m
+[1.968s] -- Install configuration: ""
+[1.968s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc/temp_install/parameter_server/parameter_server
+[1.971s] [ 80%] [34m[1mCompleted 'autodiscover_agent'[0m
+[1.975s] [ 80%] [34m[1mCompleted 'string_publisher'[0m
+[1.981s] [ 81%] [34m[1mCompleted 'epoch_synchronization'[0m
+[1.982s] [ 82%] [34m[1mCompleted 'multithread_publisher_subscriber'[0m
+[1.988s] [ 83%] [34m[1mCompleted 'parameter_server'[0m
+[1.992s] [ 83%] [34m[1mCompleted 'static_type_handling'[0m
+[2.001s] [ 85%] Built target string_subscriber
+[2.006s] [ 88%] Built target autodiscover_agent
+[2.010s] [ 90%] Built target string_publisher
+[2.015s] [ 92%] Built target epoch_synchronization
+[2.020s] [ 95%] Built target parameter_server
+[2.020s] [ 97%] Built target multithread_publisher_subscriber
+[2.023s] [100%] Built target static_type_handling
+[2.035s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc' returned '0': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc:/root/ros_ws/src/Rescue_Car_ws/install/common_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs:/root/ros_ws/src/Rescue_Car_ws/install/car:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs/lib:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent/lib:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc -- -j20 -l20
+[2.037s] Invoking command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc:/root/ros_ws/src/Rescue_Car_ws/install/common_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs:/root/ros_ws/src/Rescue_Car_ws/install/car:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs/lib:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent/lib:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc
+[2.043s] -- Install configuration: ""
+[2.043s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc
+[2.044s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent
+[2.044s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent/ping_uros_agent
+[2.044s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber/configured_subscriber
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count/subscription_count
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization/epoch_synchronization
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber/complex_msg_subscriber
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server/fibonacci_action_server
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong/ping_pong
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling/static_type_handling
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent/autodiscover_agent
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber/int32_subscriber
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count/publisher_count
+[2.045s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication/fragmented_publication
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode/int32_multinode
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client/fibonacci_action_client
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server/parameter_server
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server/addtwoints_server
+[2.046s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber/string_subscriber
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer/timer
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client/addtwoints_client
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer/graph_visualizer
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher/configured_publisher
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher/complex_msg_publisher
+[2.047s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber/multithread_publisher_subscriber
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher/int32_publisher
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher/string_publisher
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber
+[2.048s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber/int32_publisher_subscriber
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription/fragmented_subscription
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/package_run_dependencies/micro_ros_demos_rclc
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/parent_prefix_path/micro_ros_demos_rclc
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.sh
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.dsv
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.sh
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.dsv
+[2.049s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.bash
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.sh
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.zsh
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.dsv
+[2.050s] -- Installing: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.dsv
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/packages/micro_ros_demos_rclc
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig.cmake
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig-version.cmake
+[2.050s] -- Up-to-date: /root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.xml
+[2.051s] Invoked command in '/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc' returned '0': CMAKE_PREFIX_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds:/root/ros_ws/src/Rescue_Car_ws/install/rclc:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/microxrcedds_client:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs:/root/ros_ws/src/Rescue_Car_ws/install/microcdr:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_demos_rclc:/root/ros_ws/src/Rescue_Car_ws/install/common_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c_tests:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_setup:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs:/root/ros_ws/src/Rescue_Car_ws/install/car:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/root/ros_ws/src/Rescue_Car_ws/install/visualization_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/sensor_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rmw_microxrcedds/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc/lib:/root/ros_ws/src/Rescue_Car_ws/install/test_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/geometry_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/example_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rcl_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/complex_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/action_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/unique_identifier_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/builtin_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/trajectory_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/stereo_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/std_srvs/lib:/root/ros_ws/src/Rescue_Car_ws/install/shape_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/nav_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/diagnostic_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/actionlib_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/statistics_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_test_msg/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosidl_typesupport_microxrcedds_c/lib:/root/ros_ws/src/Rescue_Car_ws/install/rosgraph_msgs/lib:/root/ros_ws/src/Rescue_Car_ws/install/rclc_parameter/lib:/root/ros_ws/src/Rescue_Car_ws/install/composition_interfaces/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_utilities/lib:/root/ros_ws/src/Rescue_Car_ws/install/micro_ros_agent/lib:/root/ros_ws/src/Rescue_Car_ws/install/lifecycle_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /root/ros_ws/src/Rescue_Car_ws/build/micro_ros_demos_rclc

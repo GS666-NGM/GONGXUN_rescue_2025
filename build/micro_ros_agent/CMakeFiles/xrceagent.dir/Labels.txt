@@ -1,0 +1,13 @@
+# Target labels
+ xrceagent
+# Source files and their labels
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/CMakeFiles/xrceagent
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/CMakeFiles/xrceagent.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/CMakeFiles/xrceagent-complete.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-build.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-configure.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-download.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-install.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-mkdir.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-patch.rule
+/root/ros_ws/src/Rescue_Car_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-update.rule

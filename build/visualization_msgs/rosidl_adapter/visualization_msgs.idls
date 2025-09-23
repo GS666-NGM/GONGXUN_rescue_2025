@@ -1,0 +1,13 @@
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/ImageMarker.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarker.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerControl.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerFeedback.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerInit.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerPose.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerUpdate.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/Marker.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MarkerArray.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MenuEntry.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MeshFile.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/UVCoordinate.idl
+/root/ros_ws/src/Rescue_Car_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:srv/GetInteractiveMarkers.idl
